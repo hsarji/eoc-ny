@@ -52,8 +52,10 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 
 
 <details>
-<summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PAGE (click to expand)</summary>
+<summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PROJECT (click to expand)</summary>
 <br>
+
+2024-03-03 - I created a Leanpub book that I will start writing and updating, using the lean-writing method: [📖Estate of Confusion - New York](https://leanpub.com/estateofconfusion-newyork). 
 
 2023-10-14 - (1) I came up with the idea for the book and a list topics. (2) I created a tag for posts on this site that are relevant to the book: [Estate of Confusion in NY](https://www.willstrustsestates.info/tag/estate-of-confusion-in-ny/). 
 
