@@ -6,45 +6,45 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 
 <!--membersonly-->
 
-- The law isn't "found" the way most non-lawyers think. 
-- The Supreme Court in New York isn't "supreme" -- something Sen. Skoufis wants to change via proposed legislation.  
-- New York estate tax 
-	- New York has an estate tax phaseout, not a tax cliff. 
-	- A santa clause isn't about Santa Claus. 
-- Guardian in socage: It is unclear why this concept persists in New York statutes.  
-- EPTL 11-1.1(b)(5)(A) v. requiring a tenant in common to pay rent after death 
-- Legal capacity 
-	- New York requires different levels of capacity depending on the instrument being executed. There are standards for wills and contracts. What's the standard for a trust, power of attorney, or health care proxy? 
-	- Someone can lack capacity at one moment but have sufficient legal capacity at another. Limited capacity isn't so limited after all. 
-- Wills 
-	- A will is ambulatory but it doesn't have legs and can't walk around. 
-	- A last will and testament might not be the last one if it's lost or misplaced, but it still might be if certain legal hurdles are met. 
-	- [When does a testamentary trust exists?](https://www.willstrustsestates.info/what-is-the-date-for-a-testamentary-trust-under-new-york-law/) There is no single answer. 
-- Real Estate 
-	- The executor and the specific devise: The executor doesn't have statutory authority over a specific devise, but many lawyers and even some Surrogates Court judges assume that the executor does. 
-	- Vesting of property at death: Real property vests immediately but there is suspense around it. 
-	- Coop v. condo: A coop looks like a condo but only one is "real" property. 
-	- [Does a Process Server Have to Testify at an Inquest in NYC Housing Court?](https://www.willstrustsestates.info/does-a-processor-server-have-to-testify-at-an-inquest-in-nyc-housing-court/) The answer isn't straightforward. 
-	- Who drafts the real estate contract? The answer is different in downstate New York and upstate New York. 
-	- Lease forms often contain unenforceable clauses but many people use them anyway. <!-- Kuklin -->
-- Medicaid is intended to help the poor, but it is also for middle class New Yorkers. 
-- Trusts 
-	- A retained power to change remainder beneficiaries is a limited power of attorney under New York law but isn't a limited power of attorney under federal estate and gift tax law. 
-	- You can revoke your irrevocable trust if you can get the beneficiaries to agree -- EPTL 7-1.9. 
-- In terrorem clauses 
-	- With just a few words a person can control and scare you even after they die. 
-	- Your trust can have an enforceable in terrorem clause, even though the EPTL has rules only when these clauses are in wills. 
-	- You can ask certain questions without violating an in terrorem clause, but not others. The line isn't always clear. Accidentally cross the line, and you can forfeit your inheritance. It's really quite scary.
-- Powers of attorney  
-	- A power of attorney is a powerful document that is necessary to avoid the cost and delay of guardianship, but it can leave you powerless if the person you name abuses it. 
-	- Springing powers of attorney seem like such a good idea but springing it might be harder than it seems.  
-	- Your New York power of attorney is powerless [with the Social Security Administration](https://www.willstrustsestates.info/your-power-of-attorney-means-nothing-to-the-social-security-administration/) and the IRS.
-- Living wills 
-	- Living wills are not wills. 
-	- Living wills are really about dying. 
-	- Living wills are unenforceable in New York, but you can still draft them. 
-	- Living wills might not be a good idea anyway. 
--  <!-- 2024-01-12 Which law applies? -->  <!-- Red Casebook p.784: "N.Y. Est., Powers & Trusts Law §5-3.3 was repealed in 1981 (see Note 7 at page 736). Thus, if Rothko had died after 1981, under tradidonal principles only the Mark Rothko Foundation and the state attorney general, the overseer of charitable trusts, would have had standing to sue the executors. After Smithers v. St. Luke's-Roosevelt Hospital Center, page 751, however, it is an open question whether this is still true in New York." pdf-2024-02-12-1145 -->
++ The law isn't "found" the way most non-lawyers think. 
++ The Supreme Court in New York isn't "supreme" -- something Sen. Skoufis wants to change via proposed legislation.  
++ New York estate tax 
+	+ New York has an estate tax phaseout, not a tax cliff. 
+	+ A santa clause isn't about Santa Claus. 
++ Guardian in socage: It is unclear why this concept persists in New York statutes.  
++ EPTL 11-1.1(b)(5)(A) v. requiring a tenant in common to pay rent after death 
++ Legal capacity 
+	+ New York requires different levels of capacity depending on the instrument being executed. There are standards for wills and contracts. What's the standard for a trust, power of attorney, or health care proxy? 
+	+ Someone can lack capacity at one moment but have sufficient legal capacity at another. Limited capacity isn't so limited after all. 
++ Wills 
+	+ A will is ambulatory but it doesn't have legs and can't walk around. 
+	+ A last will and testament might not be the last one if it's lost or misplaced, but it still might be if certain legal hurdles are met. 
+	+ [When does a testamentary trust exists?](https://www.willstrustsestates.info/what-is-the-date-for-a-testamentary-trust-under-new-york-law/) There is no single answer. 
++ Real Estate 
+	+ The executor and the specific devise: The executor doesn't have statutory authority over a specific devise, but many lawyers and even some Surrogates Court judges assume that the executor does. 
+	+ Vesting of property at death: Real property vests immediately but there is suspense around it. 
+	+ Coop v. condo: A coop looks like a condo but only one is "real" property. 
+	+ [Does a Process Server Have to Testify at an Inquest in NYC Housing Court?](https://www.willstrustsestates.info/does-a-processor-server-have-to-testify-at-an-inquest-in-nyc-housing-court/) The answer isn't straightforward. 
+	+ Who drafts the real estate contract? The answer is different in downstate New York and upstate New York. 
+	+ Lease forms often contain unenforceable clauses but many people use them anyway. <!-- Kuklin -->
++ Medicaid is intended to help the poor, but it is also for middle class New Yorkers. 
++ Trusts 
+	+ A retained power to change remainder beneficiaries is a limited power of attorney under New York law but isn't a limited power of attorney under federal estate and gift tax law. 
+	+ You can revoke your irrevocable trust if you can get the beneficiaries to agree -- EPTL 7-1.9. 
++ In terrorem clauses 
+	+ With just a few words a person can control and scare you even after they die. 
+	+ Your trust can have an enforceable in terrorem clause, even though the EPTL has rules only when these clauses are in wills. 
+	+ You can ask certain questions without violating an in terrorem clause, but not others. The line isn't always clear. Accidentally cross the line, and you can forfeit your inheritance. It's really quite scary.
++ Powers of attorney  
+	+ A power of attorney is a powerful document that is necessary to avoid the cost and delay of guardianship, but it can leave you powerless if the person you name abuses it. 
+	+ Springing powers of attorney seem like such a good idea but springing it might be harder than it seems.  
+	+ Your New York power of attorney is powerless [with the Social Security Administration](https://www.willstrustsestates.info/your-power-of-attorney-means-nothing-to-the-social-security-administration/) and the IRS.
++ Living wills 
+	+ Living wills are not wills. 
+	+ Living wills are really about dying. 
+	+ Living wills are unenforceable in New York, but you can still draft them. 
+	+ Living wills might not be a good idea anyway. 
+- <!-- 2024-01-12 Which law applies? -->  <!-- Red Casebook p.784: "N.Y. Est., Powers & Trusts Law §5-3.3 was repealed in 1981 (see Note 7 at page 736). Thus, if Rothko had died after 1981, under tradidonal principles only the Mark Rothko Foundation and the state attorney general, the overseer of charitable trusts, would have had standing to sue the executors. After Smithers v. St. Luke's-Roosevelt Hospital Center, page 751, however, it is an open question whether this is still true in New York." pdf-2024-02-12-1145 -->
 
 
 <a id="updates"></a>

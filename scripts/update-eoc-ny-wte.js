@@ -44,8 +44,28 @@ const removedWikiLinks = fileContent.replace(regex, (match, p1, p2) => p2 ? p2 :
 //   }
 // });
 
+// Split the content into an array of lines
+const lines = removedWikiLinks.split('\n');
+
+// Initialize a variable to hold the output content
+let outputContent = '';
+
+// Iterate over each line
+lines.forEach(line => {
+  // Check if the line is a bullet line
+  let isBulletLine = /^\s*[-+*]/.test(line);
+  // Check if the line starts with a '+' symbol
+  let isPlusLine = line.trim().startsWith('+');
+  // If it is a plus line or not a bullet line, add it to the output content
+  if (isPlusLine || !isBulletLine) {
+    outputContent += line + '\n';
+  }
+});
+
+
+
 // Write the output content to the output file
-fs.writeFileSync(outputFilePath, removedWikiLinks);
+fs.writeFileSync(outputFilePath, outputContent);
 
 // Print a message to the console indicating that the code has finished running and the name of the output file that was generated
 console.log(`Finished running the code! The output file is: ${outputFileName}`);
