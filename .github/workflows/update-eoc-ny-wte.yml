@@ -1,0 +1,26 @@
+name: Update log
+
+on:
+  push:
+    paths:
+      - 'manuscript/_eoc-ny-wte.md'
+
+jobs:
+  update-log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+      - name: Install dependencies
+        run: npm install @tryghost/admin-api @lexical/markdown
+      - name: Run code
+        run: node scripts/update-eoc-ny-wte.js
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          github_token: ${{ secrets.MY_PAT }}
+          message: 'Updated log on WTE and log.txt in temp folder.'
