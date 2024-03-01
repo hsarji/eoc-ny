@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@lexical/markdown": "^0.13.1",
+    "@tryghost/admin-api": "^1.13.11"
+  }
+}
