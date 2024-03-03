@@ -1,4 +1,4 @@
-<div class="kg-card kg-callout-card kg-callout-card-grey"><div class="kg-callout-emoji">📖</div><div class="kg-callout-text">The landing page for the forthcoming book is [here]((https://leanpub.com/estateofconfusion-newyork).</div></div>
+<div class="kg-card kg-callout-card kg-callout-card-grey"><div class="kg-callout-emoji">📖</div><div class="kg-callout-text">The landing page for the forthcoming book is [here](https://leanpub.com/estateofconfusion-newyork).</div></div>
 
 Today, I thought of a book I would like to write, which would be titled, "Estate of Confusion in New York." 
 
