@@ -83,21 +83,21 @@ From Senate Report No. 97-536 to Accompany S. 2897, September 3, 1982:
 
 p.24
 
-> Limitations on the enforcement of due-on-sale clauses 
-> 
+> Limitations on the enforcement of due-on-sale clauses  
+>   
 > The Committee believes that it would be unfair and inappropriate for lenders to enforce due-on-sale clauses under certain circumstances-such as involuntary transfers resulting from the death of a borrower, transfers which rearrange ownership rights within a family, or transfers resulting from a separation or dissolution of a marriage. . . . 
 
 p.58
 
-> Section 341(d)(3) prohibits the exercise of an option pursuant to a due-on-strike [sic] clause if the property is transferred to a joint tenant, or a tenant by the entirety, by devise, descent or operation of law.
-> . . . 
+> Section 341(d)(3) prohibits the exercise of an option pursuant to a due-on-strike [sic] clause if the property is transferred to a joint tenant, or a tenant by the entirety, by devise, descent or operation of law.  
+> . . .  
 > Section 341(d)(5) prohibits the exercise of an option pursuant to a due-on-sale clause if the property is transferred to a relative and the transfer is a result of the death of the borrower.
 
 So, p.24 supports the interpretation that a due-on-sale clause shouldn't apply to a transfer on the death of a borrower because the transfer is involuntary. But p.58 supports my reading of (d)(3). 
 
 The end of an Emily Dickinson poem comes to mind:
 
-> But, most, like Chaos-Stopless-cool-
-> Without a Chance, or Spar-
-> Or even a Report of Land-
-> To justify-Despair.
+> But, most, like Chaos-Stopless-cool-  
+> Without a Chance, or Spar-  
+> Or even a Report of Land-  
+> To justify-Despair.  
