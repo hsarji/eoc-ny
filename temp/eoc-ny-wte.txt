@@ -1,3 +1,5 @@
+<div class="kg-card kg-callout-card kg-callout-card-grey"><div class="kg-callout-emoji">📖</div><div class="kg-callout-text">The landing page for the forthcoming book is [here]((https://leanpub.com/estateofconfusion-newyork).</div></div>
+
 Today, I thought of a book I would like to write, which would be titled, "Estate of Confusion in New York." 
 
 The more I learn about the law, in general, and trusts and estates law in New York, in particular, the more I see things that aren't intuitive or obvious, that are unclear, or that are unresolved. 
@@ -27,6 +29,7 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 	+ [Does a Process Server Have to Testify at an Inquest in NYC Housing Court?](https://www.willstrustsestates.info/does-a-processor-server-have-to-testify-at-an-inquest-in-nyc-housing-court/) The answer isn't straightforward. 
 	+ Who drafts the real estate contract? The answer is different in downstate New York and upstate New York. 
 	+ Lease forms often contain unenforceable clauses but many people use them anyway. <!-- Kuklin -->
+	+ <a id="re-mortgage-death-acceleration"></a>Testamentary disposition of real property to strangers & due on sale clause.
 + Medicaid is intended to help the poor, but it is also for middle class New Yorkers. 
 + Trusts 
 	+ A retained power to change remainder beneficiaries is a limited power of attorney under New York law but isn't a limited power of attorney under federal estate and gift tax law. 
@@ -49,12 +52,13 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 <a id="updates"></a>
 
 
-
 <details>
 <summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PROJECT (click to expand)</summary>
 <br>
 
-2024-03-03 - I created a Leanpub book that I will start writing and updating, using the lean-writing method: [📖Estate of Confusion - New York](https://leanpub.com/estateofconfusion-newyork). 
+2024-03-03 - I added ["testamentary disposition of real property to strangers & due on sale clause"](#re-mortgage-death-acceleration). 
+
+2024-03-02 - I created a Leanpub book that I will start writing and updating, using the lean-writing method: [📖Estate of Confusion - New York](https://leanpub.com/estateofconfusion-newyork). 
 
 2023-10-14 - (1) I came up with the idea for the book and a list topics. (2) I created a tag for posts on this site that are relevant to the book: [Estate of Confusion in NY](https://www.willstrustsestates.info/tag/estate-of-confusion-in-ny/). 
 
