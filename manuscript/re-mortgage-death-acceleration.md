@@ -95,9 +95,15 @@ p.58
 
 So, p.24 supports the interpretation that a due-on-sale clause shouldn't apply to a transfer on the death of a borrower because the transfer is involuntary. But p.58 supports my reading of (d)(3). 
 
+<!--
+
 The end of an Emily Dickinson poem comes to mind:
 
 > But, most, like Chaos-Stopless-cool-  
 > Without a Chance, or Spar-  
 > Or even a Report of Land-  
 > To justify-Despair.  
+
+-->
+
+Personally, I don't think the exemption applies when a transfer is made to strangers because (1) then we wouldn't need the exemption in (d)(5), and (2) it doesn't make sense from a lender's perspective -- someone completely unrelated to the borrower is now in the position of the borrower. <!-- .... This said, if (d)(3) has been read to mean more than what I think it does, then I'm ok with that ... I just need something to support the reading ... -->
