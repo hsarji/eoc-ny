@@ -1,3 +1,4 @@
+{id: re-life-estate-poapl}
 ## Grantor Can Reserve Life Estate & Limited Power of Appointment, But Can Also Create Title Problems 
 
 Resources

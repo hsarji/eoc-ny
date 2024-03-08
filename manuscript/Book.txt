@@ -1,3 +1,5 @@
+poap--.md
+poap-def.md
 re--.md
-re-life-estate-lpoap.md
+re-life-estate-poalp.md
 re-mortgage-death-acceleration.md

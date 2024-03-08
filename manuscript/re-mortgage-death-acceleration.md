@@ -1,3 +1,4 @@
+{id: re-mortgage-death-acceleration}
 ## Testamentary disposition of real property to strangers & due on sale clause
 
 ### Facts

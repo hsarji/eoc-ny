@@ -30,8 +30,11 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 	+ Who drafts the real estate contract? The answer is different in downstate New York and upstate New York. 
 	+ Lease forms often contain unenforceable clauses but many people use them anyway. <!-- Kuklin -->
 	+ <a id="re-mortgage-death-acceleration"></a>[[re-mortgage-death-acceleration|Testamentary disposition of real property to strangers & due on sale clause.]]
-	+ <a id="re-life-estate-lpoap"></a>It is possible for a grantor to reserve both a life estate and a limited power of appointment in a deed, but it can cause title problems.  
-+ Medicaid is intended to help the poor, but it is also for middle class New Yorkers. 
+	+ <a id="re-life-estate-poapl"></a>It is possible for a grantor to reserve both a life estate and a limited power of appointment in a deed, but it can cause title problems.  
++ <a id="poap-def"></a>What is the definition of a "limited power of appointment"? The definitions of "power of appointment" are different under federal law and New York law.   
++ Medicaid planning 
+	+ Medicaid is intended to help the poor, but it is also for middle class New Yorkers. 
+	+ <a id="medicaid-poapl"></a>When does using a limited power of appointment make sense in Medicaid planning?
 + Trusts 
 	+ A retained power to change remainder beneficiaries is a limited power of attorney under New York law but isn't a limited power of attorney under federal estate and gift tax law. 
 	+ You can revoke your irrevocable trust if you can get the beneficiaries to agree -- EPTL 7-1.9. 
@@ -58,12 +61,14 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 <summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PROJECT (click to expand)</summary>
 <br>
 
-2024-03-07 - I added: [It is possible for a grantor to reserve both a life estate and a limited power of appointment in a deed, but it can cause title problems.](#re-life-estate-lpoap)
+2024-03-08 - Added: (1) [What is the definition of a "limited power of appointment"?](#poap-def). (2) [When does using a limited power of appointment make sense in Medicaid planning?](#medicaid-poapl).
+
+2024-03-07 - Added: [It is possible for a grantor to reserve both a life estate and a limited power of appointment in a deed, but it can cause title problems.](#re-life-estate-poapl)
   
-2024-03-03 - I added ["testamentary disposition of real property to strangers & due on sale clause"](#re-mortgage-death-acceleration). 
+2024-03-03 - Added ["testamentary disposition of real property to strangers & due on sale clause"](#re-mortgage-death-acceleration). 
 
-2024-03-02 - I created a Leanpub book that I will start writing and updating, using the lean-writing method: [📖Estate of Confusion - New York](https://leanpub.com/estateofconfusion-newyork). 
+2024-03-02 - Created a Leanpub book that I will start writing and updating, using the lean-writing method: [📖Estate of Confusion - New York](https://leanpub.com/estateofconfusion-newyork). 
 
-2023-10-14 - (1) I came up with the idea for the book and a list topics. (2) I created a tag for posts on this site that are relevant to the book: [Estate of Confusion in NY](https://www.willstrustsestates.info/tag/estate-of-confusion-in-ny/). 
+2023-10-14 - (1) Came up with the idea for the book and a list topics. (2) Created a tag for posts on this site that are relevant to the book: [Estate of Confusion in NY](https://www.willstrustsestates.info/tag/estate-of-confusion-in-ny/). 
 
 </details>
