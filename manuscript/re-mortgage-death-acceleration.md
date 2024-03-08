@@ -91,7 +91,20 @@ p.58
 > . . .  
 > Section 341(d)(5) prohibits the exercise of an option pursuant to a due-on-sale clause if the property is transferred to a relative and the transfer is a result of the death of the borrower.
 
-So, p.24 supports the interpretation that a due-on-sale clause shouldn't apply to a transfer on the death of a borrower because the transfer is involuntary. But p.58 supports my reading of (d)(3). 
+So, p.24 supports the interpretation that a due-on-sale clause shouldn't apply to a transfer on the death of a borrower because the transfer is involuntary. But p.58 supports my reading of (d)(3).
+
+```
+if property is transferred to 
+                              a joint tenant, or
+                              a tenant by the entirety,
+                           by 
+                              devise, 
+                              descent or 
+                              operation of law. 
+```
+
+They rearranged (d)(3) and by rearranging it, they removed any merit to the Oxford comman argument. 
+ 
 
 ### Arguments for a broad interprtation of (d)(3)
 

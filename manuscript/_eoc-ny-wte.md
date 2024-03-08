@@ -6,7 +6,7 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 
 [Paid Subscribers](https://www.willstrustsestates.info/#/portal/signup/) to this website can get an early preview of some topics, my thoughts, and progress updates as they join me on the journey of writing this book: 
 
-<!--membersonly-->
+<!--members-only-->
 
 + The law isn't "found" the way most non-lawyers think. 
 + The Supreme Court in New York isn't "supreme" -- something Sen. Skoufis wants to change via proposed legislation.  
@@ -30,6 +30,7 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 	+ Who drafts the real estate contract? The answer is different in downstate New York and upstate New York. 
 	+ Lease forms often contain unenforceable clauses but many people use them anyway. <!-- Kuklin -->
 	+ <a id="re-mortgage-death-acceleration"></a>[[re-mortgage-death-acceleration|Testamentary disposition of real property to strangers & due on sale clause.]]
+	+ <a id="re-life-estate-lpoap"></a>It is possible for a grantor to reserve both a life estate and a limited power of appointment in a deed, but it can cause title problems.  
 + Medicaid is intended to help the poor, but it is also for middle class New Yorkers. 
 + Trusts 
 	+ A retained power to change remainder beneficiaries is a limited power of attorney under New York law but isn't a limited power of attorney under federal estate and gift tax law. 
@@ -57,6 +58,8 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 <summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PROJECT (click to expand)</summary>
 <br>
 
+2024-03-07 - I added: [It is possible for a grantor to reserve both a life estate and a limited power of appointment in a deed, but it can cause title problems.](#re-life-estate-lpoap)
+  
 2024-03-03 - I added ["testamentary disposition of real property to strangers & due on sale clause"](#re-mortgage-death-acceleration). 
 
 2024-03-02 - I created a Leanpub book that I will start writing and updating, using the lean-writing method: [📖Estate of Confusion - New York](https://leanpub.com/estateofconfusion-newyork). 
