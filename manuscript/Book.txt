@@ -3,5 +3,6 @@ medicaid-poapl.md
 poap--.md
 poap-def.md
 re--.md
+re-devise.md
 re-life-estate-poalp.md
 re-mortgage-death-acceleration.md
