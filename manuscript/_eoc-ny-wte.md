@@ -30,7 +30,10 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 	+ Who drafts the real estate contract? The answer is different in downstate New York and upstate New York. 
 	+ Lease forms often contain unenforceable clauses but many people use them anyway. <!-- Kuklin -->
 	+ <a id="re-mortgage-death-acceleration"></a>[[re-mortgage-death-acceleration|Testamentary disposition of real property to strangers & due on sale clause.]]
-	+ <a id="re-life-estate-poapl"></a>It is possible for a grantor to reserve both a life estate and a limited power of appointment in a deed, but it can cause title problems.  
+	+ <a id="re-life-estate-poapl"></a>Life estate deed reserving a limited power of appointment: 
+		+ It is possible for a grantor to reserve both a life estate and a limited power of appointment in a deed. 
+		+  What are the advantages? <!-- control, incomplete gift -->
+		+  What are the disadvantages? <!-- It can cause title problems. Medicaid issues. -->  
 + <a id="poap-def"></a>What is the definition of a "limited power of appointment"? The definitions of "power of appointment" are different under federal law and New York law.   
 + Medicaid planning 
 	+ Medicaid is intended to help the poor, but it is also for middle class New Yorkers. 
@@ -60,6 +63,10 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 <details>
 <summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PROJECT (click to expand)</summary>
 <br>
+
+2024-03-12 - Revised and expanded: Life estate deed reserving a limited power of appointment, [above](#re-life-estate-poapl). 
+
+2024-03-10 - Created the book cover for the book. See [📖Estate of Confusion - New York](https://leanpub.com/estateofconfusion-newyork).
 
 2024-03-08 - Added: (1) [What is the definition of a "limited power of appointment"?](#poap-def). (2) [When does using a limited power of appointment make sense in Medicaid planning?](#medicaid-poapl).
 

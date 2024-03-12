@@ -124,6 +124,13 @@ Yet another wrote: <!-- Lewis Taishoff, [RE: Scope of Garn-St Germain Act (d)(3)
 
 > Broader. Makes no sense to confine (d)(3) only to joint tenancies or TBEs. Few people choose to die as a means to defeat a due-on-sale clause. 
 
+
+[Homeowner Tactics to Overcome Problems with Tangled Titles](https://library.nclc.org/article/homeowner-tactics-overcome-problems-tangled-titles) by the NCLC states: 
+
+> When property is transferred because of a death, the mortgage lender may not exercise a due-on-sale clause. The heirs have the right to simply keep paying the existing mortgage. See [NCLC’s Mortgage Servicing and Loan Modifications § 4.8.3.1](https://library.nclc.org/book/mortgage-servicing-and-loan-modifications/4831-garn-exempt-transfers); [NCLC’s Home Foreclosures § 5.10](https://library.nclc.org/book/home-foreclosures/5101-overview). 
+
+I looked up the citations and they only support the broad statement that "the mortgage lender may not exercise a due-on-sale clause" when it applies to "heirs." So, as it is written, the quote is misleading. 
+
 ### Arguments for narrow interpretation of (d)(3)
 
 (1) If the broader reading makes sense for (d)(3), then why is (d)(5) in the statute?

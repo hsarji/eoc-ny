@@ -21,9 +21,9 @@ const regex = /\[\[(.+?)(?:\|(.+?))?\]\]/g;
 const removedWikiLinks = fileContent.replace(regex, (match, p1, p2) => p2 ? p2 : p1);
 
 
-// Strip only HTML comments
+// Strip HTML comments but leave <!--members-only-->
 // const strippedComments = removedWikiLinks.replace(/<!--[\s\S]*?-->/g, '');
-
+var strippedComments = removedWikiLinks.replace(/<!--(?!members-only)[\s\S]*?-->/g, '');
 
 // Strip 📝 emoji
 // const strippedContent = strippedComments.replace(/📝/g, '');
@@ -45,7 +45,7 @@ const removedWikiLinks = fileContent.replace(regex, (match, p1, p2) => p2 ? p2 :
 // });
 
 // Split the content into an array of lines
-const lines = removedWikiLinks.split('\n');
+const lines = strippedComments.split('\n');
 
 // Initialize a variable to hold the output content
 let outputContent = '';
