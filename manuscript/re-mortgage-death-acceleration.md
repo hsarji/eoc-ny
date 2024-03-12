@@ -151,8 +151,11 @@ If we read (d)(3) as applying to all transfers by devise or descent, then
 
 (4) Yes, few people choose to die as a means to defeat a due-on-sale clause. But don't banks use the due-on-sale clause so (A) they can have some control over who the borrower is and (B) they can control the loan portfolios they might carry? (I recall coming across case law that questions whether a bank can exercise a due-on-sale clause for the latter purpose, but such a legal restriction doesn't take away the bank's incentive to accelerate notes with a lower interest.) 
 
+If (d)(3) is indeed broad, then Testator can devise real property to three strangers and the lender cannot accelerate the note, even though the interest rate is low (say 2.5%). As long as the new owners continue to make payments, the lender is powerless. That's great! But it seems too good to be true and contrary to the spirit of due-on-sale clauses. 
 
-If (d)(3) is indeed broad, then Testator can devise real property to three strangers and the lender cannot accelerate the note, even though the interest rate is low (say 2.5%). As long as the new owners continue to make payments, the lender is powerless. That's great! 
+### Conclusion 
+
+The exemption in (d)(3) is poorly written: If we read it broadly, then the exemption (d)(5) becomes superfluous; but if we read it narrowly, then the clause "to a joint tenant, or a tenant by the entirety" becomes unnecessary. 
 
 
 <!--
