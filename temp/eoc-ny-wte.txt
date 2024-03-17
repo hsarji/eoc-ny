@@ -54,7 +54,21 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 	+ Living wills are really about dying. 
 	+ Living wills are unenforceable in New York, but you can still draft them. 
 	+ Living wills might not be a good idea anyway. 
-
++ <a id="totten"></a>Totten trusts
+	+ What is a Totten trust?
+	+ Why is a Totten trust called a "Totten" trust?
+	+ Is a Totten trust really a "trust"?
+	+ <a id="totten-revocable-by-will"></a>Testators can revoke Totten trusts in their will: How can testators revoke Totten trusts in their will?  
+	+ If a Totten trust is a non-probate asset, then why can it be revoked by the decedent will?
+	+ A Totten trust is a non-probate asset but it is also subject to the decedent depositor's debts if the estate is otherwise insolvent: How does this work?
+	+ What happens if a bank refuses to pay the Totten trust to the named beneficiary when the beneficiary presents it with the depositor's death certificate?
++ Incapacity
+	+ When does the person lack capacity for purpose of the state planning?
+	+ What is temporary or situational capacity?
+	+ Why would you want to avoid adult guardianship ￼?
+	+ How do you avoid adult guardianship?
++ <a id="genealogist"></a>When do you need a genealogist? 
++ <a id="trust-invest"></a>How do you invest trust assets in order to truly benefit both the income beneﬁciary and the remainder persons?
 
 <a id="updates"></a>
 
@@ -62,6 +76,12 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 <details>
 <summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PROJECT (click to expand)</summary>
 <br>
+
+2024-03-17 - Added the question about [trust investment](#trust-invest).
+
+2024-03-15 - (1) Added the question about a [genealogist](#genealogist). (2) Expanded the issues for [Totten trusts](#totten). 
+
+2024-03-14 - Added question about [the revocation of a totten trusts by a will](#totten-revocable-by-will). 
 
 2024-03-12 - Revised and expanded: Life estate deed reserving a limited power of appointment, [above](#re-life-estate-poapl). 
 
