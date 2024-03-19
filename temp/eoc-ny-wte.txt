@@ -69,6 +69,9 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 	+ How do you avoid adult guardianship?
 + <a id="genealogist"></a>When do you need a genealogist? 
 + <a id="trust-invest"></a>How do you invest trust assets in order to truly benefit both the income beneﬁciary and the remainder persons?
++ <a id="intestacy"></a>Intestacy
+	+ How does the Surrogate's Court get jurisdiction? 
+	+ Who must the petitioner cite? 
 
 <a id="updates"></a>
 
@@ -76,6 +79,8 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 <details>
 <summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PROJECT (click to expand)</summary>
 <br>
+
+2024-03-19 - Added questions about [intestacy](#intestacy): How does the Surrogate's Court get jurisdiction? Who must the petitioner cite? 
 
 2024-03-17 - Added the question about [trust investment](#trust-invest).
 
