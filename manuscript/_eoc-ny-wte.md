@@ -73,6 +73,10 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 + <a id="intestacy"></a>Intestacy
 	+ How does the Surrogate's Court get jurisdiction? 
 	+ Who must the petitioner cite? 
++ <a id="pour-over"></a>Pour over will
+	+ What is it?  
+	+ When do you use it? Generally, with a revocable trust as a back-stop in case the trust isn't fully funded. But, surprisingly, there is a scenario where a pour over will shouldn't be used. 
+	+ How do you draft it -- do you simply incorporate the dispositive terms of the trust or do you restate the trust? There are pros and cons to each approach. 
 
 <a id="updates"></a>
 
@@ -80,6 +84,8 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 <details>
 <summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PROJECT (click to expand)</summary>
 <br>
+
+2024-03-20 - Added questions about [pour over wills](#pour-over). 
 
 2024-03-19 - Added questions about [intestacy](#intestacy): How does the Surrogate's Court get jurisdiction? Who must the petitioner cite? 
 
