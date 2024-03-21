@@ -76,6 +76,11 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 	+ What is it?  
 	+ When do you use it? Generally, with a revocable trust as a back-stop in case the trust isn't fully funded. But, surprisingly, there is a scenario where a pour over will shouldn't be used. 
 	+ How do you draft it -- do you simply incorporate the dispositive terms of the trust or do you restate the trust? There are pros and cons to each approach. 
++ <a id="savings-bond"></a>Savings Bond 
+	+ What happens if the beneficiary predeceases the bond owner? 
+	+ Savings bonds & Medicaid
+	+ Does a surviving spouse have a right of election against savings bonds? 
+	+ Can a surviving spouse claim a savings bond under the family exemption? 
 
 <a id="updates"></a>
 
@@ -83,6 +88,8 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 <details>
 <summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PROJECT (click to expand)</summary>
 <br>
+
+2024-03-21 - Added questions about [savings bonds](#savings-bond). 
 
 2024-03-20 - Added questions about [pour over wills](#pour-over). 
 
