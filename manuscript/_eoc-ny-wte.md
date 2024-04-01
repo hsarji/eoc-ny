@@ -34,6 +34,7 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 		+ It is possible for a grantor to reserve both a life estate and a limited power of appointment in a deed. 
 		+  What are the advantages? <!-- control, incomplete gift -->
 		+  What are the disadvantages? <!-- It can cause title problems. Medicaid issues. -->  
+	+ <a id="re-llc-gift-transfer-tax"></a>Is a New York State or New York City transfer tax imposed on gifts of membership interests of a limited liability company that owns New York real property?   
 + <a id="poap-def"></a>What is the definition of a "limited power of appointment"? The definitions of "power of appointment" are different under federal law and New York law.   
 + Medicaid planning 
 	+ Medicaid is intended to help the poor, but it is also for middle class New Yorkers. 
@@ -69,7 +70,7 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 	+ Why would you want to avoid adult guardianship ￼?
 	+ How do you avoid adult guardianship?
 + <a id="genealogist"></a>When do you need a genealogist? 
-+ <a id="trust-invest"></a>How do you invest trust assets in order to truly benefit both the income beneﬁciary and the remainder persons?
++ <a id="trust-invest"></a>How do you invest trust assets in order to truly benefit both the income beneficiary and the remainder persons?
 + <a id="intestacy"></a>Intestacy
 	+ How does the Surrogate's Court get jurisdiction? 
 	+ Who must the petitioner cite? 
@@ -83,12 +84,16 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 	+ Does a surviving spouse have a right of election against savings bonds? 
 	+ Can a surviving spouse claim a savings bond under the family exemption? 
 
+
+
 <a id="updates"></a>
 
 
 <details>
 <summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PROJECT (click to expand)</summary>
 <br>
+
+2024-03-31 - Added a question about [NYS and NYC transfer tax on gifts of membership interests of an LLC that owns real property](#re-llc-gift-transfer-tax). 
 
 2024-03-21 - Added questions about [savings bonds](#savings-bond). 
 
