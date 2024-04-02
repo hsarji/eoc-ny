@@ -53,7 +53,8 @@ let outputContent = '';
 // Iterate over each line
 lines.forEach(line => {
   // Check if the line is a bullet line
-  let isBulletLine = /^\s*[-+*]/.test(line);
+  // let isBulletLine = /^\s*[-+*]/.test(line);
+  let isBulletLine = /^\s*[-+*]\s/.test(line);
   // Check if the line starts with a '+' symbol
   let isPlusLine = line.trim().startsWith('+');
   // If it is a plus line or not a bullet line, add it to the output content
