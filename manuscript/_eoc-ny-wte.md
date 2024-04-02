@@ -2,7 +2,6 @@
 
 Today, I thought of a book I would like to write, which would be titled, "Estate of Confusion in New York."
    
-
 The more I learn about the law, in general, and trusts and estates law in New York, in particular, the more I see things that aren't intuitive or obvious, that are unclear, or that are unresolved. 
 
 <!-- [Paid Subscribers](https://www.willstrustsestates.info/#/portal/signup/) to this website can get an early preview of some topics, my thoughts, and progress updates as they join me on the journey of writing this book: -->
