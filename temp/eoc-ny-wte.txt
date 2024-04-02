@@ -1,12 +1,13 @@
 <div class="kg-card kg-callout-card kg-callout-card-grey"><div class="kg-callout-emoji">📖</div><div class="kg-callout-text">The landing page for the forthcoming book is <a href="https://leanpub.com/estateofconfusion-newyork">here</a>.</div></div>
 
-Today, I thought of a book I would like to write, which would be titled, "Estate of Confusion in New York." 
+Today, I thought of a book I would like to write, which would be titled, "Estate of Confusion in New York."
+   
 
 The more I learn about the law, in general, and trusts and estates law in New York, in particular, the more I see things that aren't intuitive or obvious, that are unclear, or that are unresolved. 
 
-[Paid Subscribers](https://www.willstrustsestates.info/#/portal/signup/) to this website can get an early preview of some topics, my thoughts, and progress updates as they join me on the journey of writing this book: 
 
-<!--members-only-->
+
+
 
 + The law isn't "found" the way most non-lawyers think. 
 + The Supreme Court in New York isn't "supreme" -- something Sen. Skoufis wants to change via proposed legislation.  
@@ -83,6 +84,7 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 	+ Does a surviving spouse have a right of election against savings bonds? 
 	+ Can a surviving spouse claim a savings bond under the family exemption? 
 
+Please let me know in the comments below of topics you have come across. I look forward to hearing from you. 
 
 
 <a id="updates"></a>
@@ -91,6 +93,8 @@ The more I learn about the law, in general, and trusts and estates law in New Yo
 <details>
 <summary style="color:grey; font-size: 23px;" >UPDATES TO THIS PROJECT (click to expand)</summary>
 <br>
+
+2024-04-02 - Made this page public. 
 
 2024-03-31 - Added a question about [NYS and NYC transfer tax on gifts of membership interests of an LLC that owns real property](#re-llc-gift-transfer-tax). 
 
