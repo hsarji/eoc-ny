@@ -5,9 +5,7 @@ Today, I thought of a book I would like to write, which would be titled, "Estate
 
 The more I learn about the law, in general, and trusts and estates law in New York, in particular, the more I see things that aren't intuitive or obvious, that are unclear, or that are unresolved. 
 
-<!-- 
-[Paid Subscribers](https://www.willstrustsestates.info/#/portal/signup/) to this website can get an early preview of some topics, my thoughts, and progress updates as they join me on the journey of writing this book: 
--->
+<!-- [Paid Subscribers](https://www.willstrustsestates.info/#/portal/signup/) to this website can get an early preview of some topics, my thoughts, and progress updates as they join me on the journey of writing this book: -->
 
 **Updated 4/2/2024:** I'm making the topics below available publicly, not just to [paid subscribers](https://www.willstrustsestates.info/#/portal/signup/). These are just some of the topics that I'm thinking of adding to the forthcoming book:
 
