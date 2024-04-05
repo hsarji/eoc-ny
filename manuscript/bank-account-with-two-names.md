@@ -6,6 +6,6 @@ I didn't remove anything other than the names [but left one letter], account num
 
 In other areas of our law, two names means something. For bank accounts, it can mean several things. That's just mean to a person who has to interpret it. Did convenience accounts create this ambiguity? Is our proposed bank legislation going to help in a scenario like this or is it going to create more confusion? 
 
-{height: "50%"}
+{height: "70%"}
 ![](resources/bank-account-with-two-names.png) 
 
