@@ -1,3 +1,7 @@
+bank-account-with-two-names.md
+
+credit-card-interest-rates.md
+
 medicaid--.md 
 medicaid-poapl.md 
 
@@ -11,6 +15,7 @@ poap-def.md
 
 re--.md
 re-devise.md
+re-devise-immediate-vesting.md
 re-life-estate-poalp.md
 re-mortgage-death-acceleration.md
 re-llc-gift-transfer-tax.md
