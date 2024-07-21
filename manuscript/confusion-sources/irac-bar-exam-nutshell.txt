@@ -1,0 +1,893 @@
+Two chapters from:   
+Darrow-Kleinhaus's The Bar Exam in a Nutshell, 4th  
+©2024 West Academic Publishing
+<!-- Copied and pasted from Jenkins 7/20/2024 -->
+
+{{TOC}}
+
+---
+
+## Chapter 1 About the Bar Exam
+CHAPTER 1
+
+A.  WHY SHOULD YOU LISTEN TO ME?
+
+If you’re like other bar candidates, you’ve been bombarded with lots of well-meaning advice on how to prepare for the bar exam. You may even have paid thousands of dollars for this advice. What could another so-called “bar expert” possibly have to tell you that is not already to be found somewhere in the pile of materials growing like Mount Vesuvius on the side of your bed? Simple: I can tell you what you need to know to make all this guidance work for you and not simply overwhelm you. I can share with you what I have learned over the past 25 years from working with students to prepare for their first bar exam and with others who failed the bar exam multiple times and then passed after we worked together. I can spare you what they went through trying to figure out what the exam was all about. Then you can pass the bar exam the first time you take it.
+
+I can’t believe it’s been so long since I sat for the bar exam. The experience is still fresh in my mind—as it remains for all of us who take the exam. I promise that you’ll never forget the struggle of studying for and taking the bar exam; I also promise that you’ll never forget the moment of joy and exhilaration when you learn that you’ve passed. And that is what this book is all about—getting you to that moment.
+
+2
+
+I never thought I would make the bar exam some kind of personal calling. I was just happy that it was over and I could pack away my flash cards, notebooks, and the ton of study materials I had accumulated. But my happiness was short-lived when I learned that my best friends had not passed with me. I was shocked: I knew my friends had studied long hours, like me. I knew that they had listened to all the bar review lectures and had taken copious notes, like me. I knew that they had followed the suggested study outlines and written sample essays, like me. So why the different result? I wanted to do something—anything—to help.
+
+I offered to study with them. I had been a good student in law school and one of my essays had been selected as a sample answer by the New York Law Examiners. I felt I had something of value to offer. We started to meet weekly at my house and as we sat around the kitchen table, working through essay questions and multiple-choice questions together, I was able to see how they approached the problems. From that first afternoon, it became clear to me that while we had gone to law school together, taken exams together, and had even taken the same bar review course together, we went about the process of analyzing and answering the questions very differently. I used “IRAC” and they didn’t. It never occurred to me that using “IRAC”, the method of legal analysis taught to all law students from the very first day of law school, would make the difference between passing and failing, but it did, and as I was soon to learn, it always makes the difference.
+
+3
+
+B.  YOU MEAN THAT IRAC IS THE SECRET?
+
+As I continued to work with more and more students, it became increasingly clear that the secret to passing the bar exam, if there was a secret at all, was not the amount of time spent in study but the nature of that study and the diligent application of IRAC analysis to all problems, essay and short answer alike. The key to getting multiple-choice questions correct and high essay scores was finding the issue in each of the questions and working from there. This sounds a lot easier and a lot harder than it is so a little explanation is in order.
+
+It’s easier because you’re already acquainted with IRAC: the acronym for the familiar “Issue, Rule, Application, Conclusion” structure of legal analysis. It’s more difficult because you’re probably not familiar enough with it to use it consistently and correctly to reason through objective, short answer questions as well as essay questions where you are given only a general question and must identify the narrow issue in controversy for yourself. Typically, your understanding of IRAC is limited to the form your professors wanted you to use to write an essay exam. But ==IRAC is more than a form: it is the essence and structure of all legal reasoning.==
+
+The questions on the bar exam and its individual sections are designed to test the fundamental analytical skills you learned in law school together with your mastery of legal principles and basic knowledge of core substance. Over and over again, in one format or another, you’ll be given a set of facts and must know enough law to find the legal problem.
+
+4
+
+Your ability to find the legal question in the facts is the single most important element in the analysis because you need to know enough law to find the issue. But you must do more than just find the issue: you must identify it and clearly articulate it, either to yourself for the multiple-choice questions or in writing for the essays, before you can go on and correctly answer the question or write an essay that gets you the necessary points.
+Your ability to conscientiously and consistently apply IRAC analysis to all the questions will make the difference between passing and failing. While there are certainly a number of other factors involved in the equation, and I will discuss them in the course of this book, I’ve learned that the one common thread linking all the unsuccessful candidates I’ve worked with was their failure to use IRAC to analyze and answer the questions. It was not enough that they had mastered the substantive rules of law: they needed to know when a particular rule was implicated by the facts. This was the connection between them and what they had been missing. By failing to identify the issue, they failed to recognize when a particular rule was in controversy. Then it didn’t matter whether they knew the rule or not. They never got to apply it because they didn’t see the issue. The good news is that once these students integrated IRAC analysis into their method of study, they went on to pass the exam.
+
+5
+
+C.  “FORENSIC IRAC”
+
+As I just explained, the key to answering bar exam questions successfully is to engage in an IRAC-based analysis. Sadly, too many bar candidates neglect to do so—much to their subsequent lament. In these cases, it isn’t so much that an IRAC analysis is absent entirely, but that its use is flawed or inadequate. The real problem is that these students can’t tell the difference between the two: they tend to be so disconnected from their own thought process that they continue to make the same mistakes over and over again, blaming everything from poor study habits to nervousness instead of acknowledging what’s right in front of them.
+
+Fortunately, however, IRAC is a process and I’ve identified several techniques for tracking that process. I’ve termed it “forensic IRAC” because these techniques are similar to those employed by crime scene investigators, accountants, medical examiners, and any of the “so-called” forensic experts who go back over the trail of evidence to determine precisely how that evidence led to a particular result. While such experts rely on fingerprints, ledger books, and DNA to find their culprit, we use IRAC. We work backward from the incorrect exam answer using IRAC analysis to figure out how and what you were thinking that led you to select that answer choice or write that essay response. It’s somewhat ironic that we use an IRAC analysis to find the flaw in our IRAC application, but it makes sense given the process of legal thought and the dynamics of the exam.
+
+6
+
+As you study for the bar exam, you will be writing out lots of exam answers and practicing many multiple-choice questions when you study. You need a way to critique your own work and understand what you’ve done right and where you’ve gone wrong. The good news is that you can do this kind of self-assessment. All you need are the right tools and you can become your own guide. By learning to apply what I’ve termed “forensic IRAC” to your own essays and multiple-choice answers, you’ll be able to identify the flaws in your work and correct them.
+
+While all the questions on the bar exam require an IRAC analysis, different parts of the exam emphasize different elements of the IRAC equation. Consequently, our techniques will vary according to the skills tested by the particular type of question. Forensic principles are outlined for the essay and MBE portions of the bar exam. They are covered in Chapter 10, Legal Forensics.
+
+D.  WHAT IS REQUIRED OF YOU
+
+The goal of the bar examiners is to test your competency for the practice of law. To pass the bar exam, therefore, you must demonstrate a firm grasp of the “black letter law” and a solid grounding in basic analytical, reading, and writing skills.
+
+These skills include:
+
+problem solving
+
+identifying and formulating legal issues
+
+organizing information
+
+7
+
+separating relevant from irrelevant facts
+
+communicating effectively in writing
+
+managing time efficiently to complete an assignment
+
+The problem is that these are practical skills and students spend most if not all of their bar prep time studying only substantive law. Success on the bar exam requires mastery of both.
+
+1. STUDYING ACTIVELY
+
+Your bar review course will provide all the substantive law you need to know to pass the exam. Bar review courses are carefully constructed to give you the black letter law in all the areas of law tested in your jurisdiction. When you think about it, this is a prodigious effort and best left to the professionals. Don’t try to do this on your own.
+
+However, a bar review course does not teach you how to process all the law you’ll cover in the course, how to write essays, or how to analyze questions. It assumes you developed these skills in law school. And for the most part, you have. You just have to be sure not to fall into the trap of devoting all of your time to reviewing notes and memorizing rules without spending enough time working with questions. Practicing questions is essential for developing your analytical, reading, and writing skills.
+
+What this means is that studying for the bar exam requires “active” studying. Unfortunately, it is all too
+
+8
+
+easy to assume a very passive role at this time—sitting through your bar review course for four to five hours a day and then reading and reviewing and summarizing and memorizing your notes for another four or more hours. Before you know it, the day has gone by, you are exhausted, and you have not done a single question!
+While your bar review course will provide a study schedule that factors in practice time with essay and multiple-choice questions, my experience has shown that it is not enough for most students. Just imagine going to take your road test and never doing more than read the driver’s manual and drive the car around the block a few times. Well, going into the bar exam without doing a couple of thousand (yes, I said “thousands”) multiple-choice questions and dozens of essays and a sufficient number of Performance Tests will leave you in the same place: without the license you want.
+
+Answering a Question
+
+Let’s consider an example to see the difference between “memorizing the rule” and knowing how to apply the rule. One of the first “black letter rules” that we learn in law school is the rule for battery: a battery occurs when one intentionally causes a harmful or offensive contact with the person of another. Now use this rule to answer a past Multistate Bar Exam (MBE) question:
+
+9
+
+Peavey was walking peacefully along a public street when he encountered Dorwin, whom he had never seen before. Without provocation or warning, Dorwin picked up a rock and struck Peavey with it. It was later established that Dorwin was mentally ill and suffered recurrent hallucinations.
+
+If Peavey asserts a claim against Dorwin based on battery, which of the following, if supported by evidence, will be Dorwin’s best defense?
+
+A. Dorwin did not understand that his act was wrongful.
+
+B. Dorwin did not desire to cause harm to Peavey.
+
+C. Dorwin did not know that he was striking a person.
+
+D. Dorwin thought Peavey was about to attack him.
+
+You have the rule—you just read it. Did you have any difficulty deciding on an answer? You could spend hours studying your notes on intentional torts, “know” the elements of a battery, and still answer this question incorrectly if you’re unfamiliar with the way the elements are tested on the bar exam. If you’re like most law students, you learned the elements of the intentional torts in a rather straightforward manner: you read cases, identified the elements in class discussions, memorized them, and recited them back on the final in the context of an essay.
+
+10
+
+You can see that the bar exam takes a different approach. Your analysis begins with the basic definition of a battery, but that’s only your first step. Then you have to analyze each element with respect to the legal issue posed in the hypothetical. If you fail to identify the issue or miss the signal words in the question, you’ll arrive at an incorrect answer choice even though you could recite the elements of a battery in your sleep or have it right in front of you!
+
+Typically, I ask a student to answer this question when we begin working together and use it as a kind of “legal” Rorschach test to evaluate the student’s substantive knowledge and analytical skills. I am not surprised when the majority of students choose an incorrect answer. For example, one student selected Answer Choice B, explaining that because a battery is the intentional, harmful or offensive touching of another, if Dorwin did not intend to cause harm, then he could not have committed a battery. “Yes,” I replied, “but did Dorwin have to intend harm to commit a battery?” The student thought about it and realized that Dorwin need not have intended harm to be found liable in battery.
+
+Not surprisingly, Choice B was the most popular student answer choice. Why? Because if you read the question quickly and scan the answer choices, you jump to Choice B because it contains the familiar battery language: “desire to cause harm.”
+
+Choice B was followed closely by Choice A in student popularity. Once again, Choice A reflects a student’s tendency to react to answer choices instead of applying the elements mechanically to the issue in
+
+11
+
+the question. Here, the student explained his answer choice as follows: if Dorwin didn’t understand his act to be wrongful, then it couldn’t have been “intentional.” Just as in Answer Choice B, this reasoning is flawed because the intent element of battery is satisfied not only when the actor intends harmful or wrongful behavior, but if he acts with purpose or knowledge to a “substantial certainty.” Here, Dorwin need not have understood his act to be wrongful to have formed the requisite intent: he need only know what would be the likely consequence of striking Peavey with a rock. Consequently, only Choice C completely negates the intent element: if Dorwin had no idea (no “knowledge”) he was striking a person, then he could not have formed the requisite intent to do the act.
+A number of students selected Choice D. Interestingly, there were two lines of incorrect reasoning to support this answer choice! In one instance, the rationale was that self-defense would be a valid justification to excuse Dorwin’s act. “Where in the facts do you find any basis to believe that Peavey was about to attack Dorwin?” I asked. Each student shook his or her head: “Nowhere,” each reluctantly conceded. Once again, students had reacted to an answer choice without analyzing it within the factual context of the problem. If they had, they would have realized that there were no facts in the question to lead Dorwin to believe Peavey was about to attack him. In fact, careful reading of the problem would have ruled this answer choice out completely because the first words in the question tell us that “Peavey was walking peacefully” and it was “without
+
+12
+
+provocation or warning, [that] Dorwin picked up a rock.” How much clearer could the bar examiners have been? This leads us to Rule One for multiple choice questions: do not assume facts and do not select answer choices that have no basis in the facts of the problem unless a modifier like “unless” or “if” in the answer choice supplies the needed additional facts.
+The other line of reasoning relied on the Mc’Naughton rule regarding the insanity defense to a criminal act. The problem, however, is that this was not a criminal prosecution and candidates who arrived at this conclusion did so by failing to read the facts carefully. We are told in the question stem that “Peavey asserts a claim against Dorwin based on battery” which must mean that it is a claim in “civil” battery; if it had been a criminal battery, then the state would have initiated the action.
+
+I’ve spent a lot of time with you on this problem because it so accurately reflects the nature of an MBE question. As you can see, it seeks to test your true understanding of a subject and not just your ability to memorize. The problem itself comes from the famous tort case, Garratt v. Dailey. Remember Brian Dailey, the little five-year old who pulled the lawn chair from under the plaintiff as she was about to sit down? As the court stated in Garratt, “a battery would be established if, in addition to plaintiff’s fall, it was proved that, when Brian moved the chair, he knew with substantial certainty that the plaintiff would attempt to sit down where the chair had been. . . . [t]he mere absence of any intent to injure
+
+13
+
+the plaintiff or to play a prank on her or to embarrass her, or to commit an assault and battery on her would not absolve him from liability if, in fact, he had such knowledge.” 46 Wash.2d 197 (1955). You can see how applying this definition of intent makes Choice C the correct response. If Dorwin did not know that he was striking a person, then he could not have committed a wrongful act.
+It should be clear from this example how you must reason through an MBE question using IRAC or you’ll respond incorrectly to a relatively simple torts question. In each case, you must identify the main issue in the question and then address the mini-issues raised in the answer choices. This requires that you ask yourself what’s going on in the problem. Here, you’re asked to solve a problem by finding Dorwin’s best defense. To do this, you’ll have to identify the answer choice which prevents the plaintiff from prevailing. This requires that you identify the elements of the plaintiff’s cause of action, determine which defense would be strongest (negates that element), and choose an answer which most closely provides a basis for overcoming that obstacle. When you begin doing MBE questions, this thought process will require effort and a mechanical application of the steps; with sufficient practice, you’ll run through these steps automatically.
+
+2. LETTING GO OF YOUR NOTES
+
+The only way you really learn the law the way you need to know it is to practice the problems. You won’t have any time if you spend it all writing and
+
+14
+
+rewriting your notes, and trust me, you still won’t be able to answer the questions! You need to do the questions to learn how the rules work. Sometimes, you just have to let go of your notes to learn the law.
+This book provides the study plans and strategies you need to turn each study hour into an active one. You’ll be shown how to practice the rules in the context in which they will be tested. It is not enough to memorize elements and rules without some idea of how they will be tested. As you will see, the very best way to learn the rules in a way you can remember them is to practice them in the context of questions.
+
+E.  WHAT THIS BOOK WILL DO FOR YOU
+
+This book will show you how to balance the need for memorization with the need for application. Since you must do both to succeed on the exam, this book will tell you how to effectively manage your time and the materials so that you can do both.
+
+By now you should realize what this book won’t do for you:
+
+It won’t tell you that it is enough to watch all of your bar review lectures and simply memorize rules of law.
+
+It won’t tell you to spend all of your time reviewing your notes, rewriting your notes, and making note cards.
+
+It won’t tell you to become a robot and place yourself in the hands of others to prepare for
+
+15
+
+what might well be the most important test of your life.
+But here’s what it will do:
+
+It will show you how to solidify your understanding of the law by “doing” released bar exam questions.
+
+It will show you how to rely on your training to respond to questions with an orderly thought process instead of panicking when you come across an unfamiliar question.
+
+It will show you how to perform “forensic IRAC” on your own thought process so you can identify the flaws in your legal reasoning and correct them.
+
+It will show you how to put together an individualized study program that works for you because it works from your strengths while recognizing your weaknesses.
+
+It will de-construct the bar exam and separate it into its component parts.
+
+And finally, this book will teach you how to think under pressure. When you study for the bar exam, you are facing one of the most stressful periods of your life. You may be consumed with thoughts of “what if”: what if I fail; what if I have to do this again; what if I don’t get the job that I want; what if I disappoint my family, my friends, my teachers, myself. These are very normal fears: we all share them. In fact, a certain level of anxiety is a good thing but too much prevents you from doing your job. And
+
+16
+
+you must be able to do your job of studying the law. You can’t afford to lose control because of the pressure. Hemingway referred to it as having “grace under pressure.” He wrote about the beauty and purity of line of the bull fighter in the ring facing the bull. The bull fighter’s ability to remain focused and in control allowed him to control the bull and hence the outcome of the contest. You need to do the same in your arena.
+The first step is to know your bar exam. After that, you can make your plans to prepare for it, to take it, and to pass it.
+
+You can do this!
+
+1  Nat’l Conf. B. Exam’rs, the National Conference of Bar Examiners. All rights reserved.
+
+
+---
+
+
+## Chapter 10 Legal Forensics
+CHAPTER 10
+
+A.  HOW FORENSIC IRAC WORKSWITH ESSAYS
+
+As we discussed, an effective essay follows the IRAC structure. As a result, your essays should be organized around an “issue,” a “rule,” an “application,” and a “conclusion” for each and every issue and sub-issue you identify on an exam question. Once you’ve written an essay, therefore, you have all the evidence you need to use our forensic principles. By examining what you’ve written through the legal lens of IRAC, you’ll be able to evaluate your own work.
+
+Forensic IRAC works by examining each sentence you’ve written in terms of its place in the IRAC structure of legal analysis. Now don’t laugh or think I’ve been watching too many television crime dramas (even though I have!), but I’ve called the process forensic IRAC because the techniques we’re going to use are similar to those employed by crime scene investigators, accountants, medical examiners, and any of the forensic experts who go back over the trail of evidence to determine how that evidence led to a particular result. While such experts rely on fingerprints, ballistics, ledger books, and DNA, we use IRAC.
+
+As I’ve said, we need to step inside your head to see the way you thought about the exam problem—how you approached it, how you read the facts, and what
+
+316
+
+they meant to you. What you’ve written leaves an identifiable trail—something like your DNA but instead of identifying your biologic self, it identifies your cognitive self. You should think of forensic IRAC as deciphering a code, where each sentence you’ve written is a clue to piecing together how you approached a problem. It works because when you write, you take the inherently private and internal process called “thought” and make it public—and provide just the way into your head that we need.
+
+1. APPLYING THE TECHNIQUE
+
+The first step in the process is to write an essay. Assuming that you’ve written an essay answer during one of your practice sessions, the next step is to put it away. Move on to something else—review your lecture notes, prepare some flash cards, write another essay. You’re not ready to be objective about something you’ve just written. You’re too close to see what you’ve really written as opposed to what you think you’ve written. The mind’s eye is funny that way: you can read something you’ve written over and over again and never see the errors because your eye will correct them based on what your mind intended. The only way to overcome this tendency is to distance yourself from your work so you can look at what you’ve written with a fresh eye and a clear mind. I strongly recommend that you write an essay one day and review it the next.
+
+Sometime the next day, or much, much later that same day, take out the bar exam question and your essay. Re-read the question and then your answer.
+
+317
+
+Now you’re ready to proceed. The plan is simple: use IRAC analysis to detect any flaws in that analysis.
+
+As you read your essay, consider each IRAC element against the criteria outlined below. This allows you to evaluate what you’ve written with the objective eye of a grader and identify your individual strengths and weaknesses. More importantly, by showing you exactly what to look for in each step of an IRAC analysis, you’ll be able to pinpoint exactly where in the process any weakness occurs. Then, by following the suggested cures for that particular problem, you’ll be able to correct it.
+
+What follows is something like a troubleshooting section in a technical manual where system faults are identified and applicable solutions are provided.
+
+2. WHEN YOU HAVE TROUBLE FINDING THE “ISSUE”
+
+A failure to properly identify the issue(s) results in a “scattershot” approach in the rest of your answer—a real “hit or miss” situation when it comes to racking up exam points. You may even have written an opening “The issue is whether” statement, but it merely restates the interrogatory without articulating the legal question underlying it. As a result, you’re misled into thinking you’ve identified the issue when in fact you’ve missed it altogether.
+
+Generally, you can tell that you’ve had difficulty in “spotting the issue” by what you’ve written in either the rule or the application portion of your essay, or both.
+
+318
+
+a. How You Can Tell When It Shows up in Your Statement of the Rule
+
+When you fail to identify the legal issue, it’s likely to turn up as a problem in your statement of the rule. One of the following may occur:
+
+You may find that the rule discussion is so general and open-ended that it completely overlooks the precise rule implicated by the facts.
+
+Your analysis glosses (“sketchy”) over the rule so lightly that the grader can’t be sure whether you knew the relevant rule or merely happened to mention it.
+
+You’ve stated the wrong rule altogether.
+
+Look for examples of the following in the rule section of your essay:
+
+Lengthy, treatise-like discussions of general legal topics.
+
+This is a pretty common situation where you’ve provided lots of “law” but it’s too general to address the particular problem implicated by the facts. Typically, what you’ve managed to do is dance around the topic without engaging it.
+
+Here, you’ve decided to show the bar examiners how much time you’ve spent studying so you display that knowledge by writing everything you know. What happens is that you provide far more information than is necessary, often miss
+
+319
+
+the relevant point, and take up valuable exam time without adding to your grade.
+A rule “dump.”
+
+This may be hard for you to believe but it’s not your job to recite all the law you’ve managed to memorize. I can understand that if you think this way, there’s no such thing as a “wrong rule” and the more you write, the better off you’ll be. But sorry, it doesn’t work like this. Writing about a rule, even if it’s correctly stated, is “wrong” if it’s not the rule implicated by the facts.
+
+For example, suppose your problem concerns whether Ben and Dylan entered into an agreement for Dylan to purchase Ben’s house and the problem presented in the facts was whether the acceptance was “timely.” If you were to include a lengthy discussion of the Uniform Commercial Code and why it doesn’t apply to the sale of a home, you are way off base. There is rarely a need to discuss non-applicable law. I hate to say “never” because there might be a time when you may need to make a comparison or analogy, but a good general rule to follow is not to discuss non-applicable rules. There’s hardly enough time during the bar exam to write a bar exam essay and discuss all the applicable law without including irrelevant law.
+
+A discussion of the “wrong” rule.
+
+There are a couple of reasons why you might have written the wrong rule on an exam answer
+
+320
+
+(see also the next section on “When you have trouble writing the “Rule”), but one very likely reason is that you didn’t begin with a proper identification of the issue. It’s relatively simple: if you don’t define the legal problem, how do you know which rule to apply?
+
+b. How You Can Tell When It Shows up in Your Application
+
+In these cases, your discussion may ramble and roam, moving without any logical transition from topic to topic. Or it may simply repeat the facts from the hypothetical. What’s interesting, however, is that a knowledge of substantive law may be indicated by the choice of vocabulary, but since what’s written doesn’t connect with what’s asked in the question, the points gained are very few, if any.
+
+Look for examples of the following in the application portion of your essay:
+
+No connection between the call-of-the-question and the application section of your answer.
+
+When you’re asked a specific question in a problem, then your analysis must be tailored to that question. For example, if your hypothetical asks, “Was the court correct in admitting testimony of the parties’ prior oral agreement? then what the grader is probably looking for is an analysis of the parol evidence rule with respect to the facts. If, on the other hand, all you wrote about was the duty of parties to act in good faith in the performance of the contract, then
+
+321
+
+you’ve completely ignored the question you were asked to consider.
+Facts in the hypothetical are repeated instead of analyzed.
+
+One very good reason for restating facts instead of analyzing them is failure to work from the legal question. The issue provides focus and direction: it’s the “problem” you solve with your “analysis.” Without identifying a problem, you have nothing to answer, so you flounder and fall back on narrative.
+
+A contradiction or discrepancy between what the rule requires and how the facts are analyzed. This problem is best illustrated by an example. Consider the following:
+
+“Sam agrees to supply Murray Inc. at the end of the growing season in August of this calendar year with all the Spud potatoes that Murray Inc. might require at a price of $100 per ton, delivery included.”
+
+You are also told that no specific quantity is stated in the contract but Sam estimates that Murray would need approximately 30 tons based on what other manufacturers in the area and industry require with similar needs. Because Murray Inc. is getting such a good price for potatoes from Sam, it decides to expand operations and launch a new product, thereby increasing its demand for potatoes by one-third.
+
+322
+
+After correctly identifying the issue as one involving a requirements contract and stating the relevant UCC provision, the bar candidate proceeds to discuss a “mutual mistake” in the parties’ understanding of how many potatoes would be required. The candidate writes that a mistake was made at to the number of potatoes involved since “Murray Inc. assumed at the time of contract that he would need 40 tons of potatoes but decided after the contract to make a new type of potato chip and would need an additional 20 tons while Sam estimated Murray would need 30 tons.”
+
+This answer is incorrect on several levels:
+
+1. It is incorrect with respect to the rule at issue because the discussion should focus on whether Murray Inc.’s increased demand was made in “good faith” and whether it was “unreasonably disproportionate” to a stated estimate or comparable requirements.
+
+2. It is incorrect with regard to a claim for mutual mistake since the actual number of potatoes could not be a mistake since no number is defined in a requirements contract; and finally, even if it were a mutual mistake, the mistaken belief would have to be held at the time of the contract’s formation, not subsequently. Here the candidate discusses Murray Inc.’s initial assumption about the quantity and then a subsequent increased need. This is not a
+
+323
+
+legal mistake but an erroneous prediction about the future.
+The problem is that the analysis does not follow the requirements of the rule. Instead, there is a serious disconnect between rule and fact, indicating a genuine lack of understanding.
+
+c. Suggested Remedies
+
+The following is a suggested strategy for identifying the legal issue raised by a hypothetical factual situation.
+
+Summary of steps:
+
+1. Begin your analysis by identifying the call-of-the-question.
+
+2. Articulate the issue based on the interrogatory.
+
+3. Develop an outline of what you need to discuss according to the issue.
+
+Learn to think of the issue as your “legal compass” or, if you prefer a sports analogy, think of it as keeping your “eye on the ball.” Either way, what happens when you focus on the issue is that you write strong, effective exam answers by discussing the right rule and appropriate facts.
+
+Strive to articulate the issue by formulating the legal question presented by the facts. Ask yourself: “what is the theory” or “what is in controversy” in these facts. That is the issue. Even in jurisdictions that present such open-ended interrogatories as
+
+324
+
+“analyze fully,” you must strive to identify the issues and sub-issues as completely as possible in terms of the relevant rules and which facts bring those rules into controversy. This is the only way to ensure that you’ll be on the right path in your analysis.
+Now let’s see how you might do this:
+
+1. Begin your analysis by identifying the call-of-the-question.
+
+Does it ask a specific question:
+
+Was the court correct in granting the motion for summary judgment?
+
+Can the defendant successfully assert the defense of justification?
+
+Were the numbered rulings correct?
+
+Does the homeowner have a cause of action in trespass?
+
+Or does it present a general, open-ended question:
+
+Explain.
+
+Discuss the rights and liabilities of all parties.
+
+Discuss all causes of action.
+
+Analyze fully.
+
+325
+
+2. Articulate the issue based on the interrogatory.
+
+(a) When working with a specific question: identify the legal controversy behind the ruling/defense/question by asking yourself:
+
+“What is the theory behind this position?”
+
+Let’s look at some examples. Suppose the call-of-the-question is something like this:
+
+“Was Ben’s decision not to publish Scarlett’s book exercised in good faith?
+
+Do not write as your statement of the issue:
+
+“The issue is whether Ben’s decision was made in good faith.”
+
+This is merely a restatement of the interrogatory.
+
+Instead, you need to review the facts to determine what is in controversy about Ben’s decision, i.e., what he did or didn’t do in reaching his decision. After carefully reviewing the facts, you’ll probably find that the legal “controversy” is:
+
+“The issue is whether Ben exercised good faith in deciding not to publish Scarlett’s book when he refused to read
+
+326
+
+the revised manuscript and relied only on a preliminary draft.”
+Let’s look at another example. Suppose you’re asked the following:
+
+“Did Ben and Scarlett have an enforceable agreement?”
+
+Once again, your task is not to restate the question, but to look closely at the facts to see what is in dispute between the parties regarding the agreement and come up with something like this:
+
+“The issue is whether Scarlett’s acceptance of Ben’s offer to ship the shoes formed a contract when Scarlett’s acceptance contained a different delivery date.”
+
+By identifying the legal issue as one concerning the formation of a contract when a term in the acceptance varied from a term of the offer, your discussion of the rule and the facts will focus on the UCC’s “battle of the forms” and its difference from the common law’s “mirror image rule.”
+
+(b) When working with a general-style question: identify the nature of your task by determining whether you need to identify causes of action, possible defenses, remedies, etc.
+
+327
+
+3. Develop an outline of what you need to discuss according to the issue.
+
+Once you’ve identified your issue, stay with it and let it guide you through your analysis. By keeping the issue in sight at all times, you’ll avoid getting side-tracked and going off on tangents.
+
+(a) When working with a specific question
+
+Each issue forms the basis for a separate IRAC analysis. Still, you must remember that there are usually issues within issues. Each main issue is very likely to break down into sub-issues and each sub-issue gets its own IRAC treatment.
+
+Outline the rule. List any elements or factors. Note only the exceptions or limitations relevant to your facts. The same is true with defenses. Note only the defenses to be raised based on your facts.
+
+As you write your analysis, work from your articulation of the rule to guide your application of the facts. Here your statement of the rule provides a blueprint to follow for your discussion of the facts. You simply match up each element/factor you’ve identified in the rule with a fact, using the word “because” to make the connection between rule and fact.
+
+328
+
+(b) When working with a general-style question
+
+With this type of interrogatory, you’ve got more work to do but it’s not any more of a challenge if you consider the following:
+
+Use sub-headings to organize your response.
+
+Your choice of sub-headings should be simple and direct. You can organize your discussion around the parties or the causes of action.
+
+Structure discussions around the issues/sub-issues and defenses.
+
+If you’re working with a fact pattern that’s long on issues but short on characters, sometimes it’s useful to organize around the causes of action.
+
+This might come up in a criminal law problem where you’re dealing with one actor who’s committed a series of possible crimes. Here, you might consider organizing your analysis around each crime as a way to avoid jumping from one act to another. This will ensure that you focus on one crime and its attendant elements at a time. You’ll want to discuss whether each element is satisfied and whether there are any defenses before moving on to consider another crime.
+
+329
+
+3. WHEN YOU HAVE TROUBLEWRITING THE “RULE”
+
+There are two separate and distinct problems which can show up in the rule portion of your exam answer. The first, and by far the most troublesome is where there’s a genuine ignorance of the law. You may state the wrong rule or refer to the right rule, but state it incorrectly, either in whole or in part. The second problem occurs when there’s a demonstration of substantive knowledge, but it’s sketchy and incomplete. Here you don’t state “enough” rule to provide an adequate context for analyzing the facts.
+
+No doubt these are both very serious problems. However, while the bar exam grader treats both problems alike with respect to the amount of points lost on your exam, we need to figure out which problem is yours. It makes a difference in how we go about fixing it.
+
+a. When You Don’t Really Know the Applicable Rule
+
+We’ve repeated this so many times by now that it should come as no surprise to read once again that if you don’t really know the rule—by which I mean understand it thoroughly, its elements, its consequences, and how it operates—then you can’t answer the question correctly and completely. There’s no way to fake your way because the language of the law is precise and your explication of the rule must be clear to allow for a meaningful analysis.
+
+330
+
+First, let’s consider an overview of how this problem “presents” and some general “remedies.” Then we’ll discuss each one in detail to understand how the problem occurs, what it looks like, and consider some specific remedies.
+
+The Overview:
+
+How you can tell
+
+Look for examples of the following in the “rule” section:
+
+□ Substituting your words for legally significant language.
+
+□ Using imprecise language and meaningless phrases.
+
+□ Relying on buzz-words.
+
+□ Failing to use legal terminology, thus sounding as if written by a non-lawyer.
+
+□ Misstating the law.
+
+□ Writing illogical, disjointed statements of the rule.
+
+Look for examples of the following in the “application” section:
+
+□ Repeating the facts without stating their legal significance.
+
+□ Writing logically inconsistent statements.
+
+□ Failing to distinguish between relevant and irrelevant facts.
+
+331
+
+How you can remedy
+
+As you well know, there are a number of reasons why you don’t know something. The most obvious reason is that you simply didn’t spend enough time studying and memorizing the black letter law. On the other hand, a lack of knowledge can result from an inability to integrate and learn legal principles. Sometimes, you may spend adequate time in study but the time spent is ineffective because you’re not focused on the right stuff.
+
+In addition to reviewing your notes and memorizing black letter law, you are going to integrate the following tasks into your study plan:
+
+Write “paragraphs of law.” By re-writing the rules of law in your own words, you are reducing the applicable law to useable chunks that can be remembered and written on essays. While it is not necessary to write a rule paragraph for every rule, you should focus on those areas that present the greatest challenge for you. These areas could be difficult because they involve several levels of analysis like a personal jurisdiction analysis or because the subject area is highly technical like Evidence or Civil Procedure.
+
+Put the parts/elements of rules together in a way that forms a logical whole. Memorize them.
+
+Having memorized the rules, make sure you understand how to apply them to new fact situations.
+
+332
+
+Practice turning rules into issues and questions. Don’t stop at memorizing the definition of a “merchant.” Learn to ask yourself, “what’s the consequence of finding that the party was a merchant with respect to the transaction in dispute?”
+
+The Specifics:
+
+Now we’re ready to get to work. The best way to tell that you really don’t know the rule is by checking what you’ve written for imprecise or incorrect use of legal language. When you don’t really understand the rule, it “presents” through a failure to use precise legal terminology, incorrect paraphrasing, or the substitution of legal “buzz-words” for legal analysis. Another way a lack of true understanding “presents” is a failure to use legal vocabulary where it would be appropriate and expected. You want to incorporate the basic vocabulary of each subject into how you think and what you write.
+
+(1) Substituting your words for legally significant language
+
+The language of the law is precise: change the word and you change the meaning. Not only will you change the meaning, but you’ll show the bar examiner in a word (sometimes a single word will betray you) that you’ve totally disregarded the law and failed to appreciate the special meaning of key language. While it’s often necessary to paraphrase the rule, it’s essential that you maintain the
+
+333
+
+integrity of the rule by preserving the legally significant language.
+(2) Absence of legal vocabulary
+
+Like every other profession, the legal profession has its own specialized language and your job upon entering the field is to speak it fluently and precisely. The bar examiners are looking for evidence in your writing that you have learned the language of the law.
+
+(3) Dependence on “buzz-words” without back-up
+
+Now that I’ve told you to use precise legal language, I’m going to add a caveat: don’t substitute legal vocabulary for legal analysis—even when it’s the right legal vocabulary. While the right word will carry you far, it won’t get you there by itself. When used properly, “buzz-words” are an appropriate shorthand for conveying information, but that must be followed with solid analysis where required—which turns out to be most of the time.
+
+b. When Your Statement of the Rule Is Incomplete or Unorganized
+
+First and foremost, the bar examiners expect your exam answer to demonstrate a firm grasp of “black letter law.” Quite aside from a sound mastery of legal principles and basic knowledge of core substance, a firm “grasp” of the law means that you know exactly how much detail is necessary to provide for a meaningful factual discussion. It also means that the law is expressed in a logical and coherent manner.
+
+334
+
+The Overview:
+
+How you can tell
+
+Look for examples of the following in the “rule” section:
+
+□ “Snippets” of law, buzz-words, and catch phrases in place of complete sentences and full explanations.
+
+□ Lists of “elements” without definitions.
+
+□ Identification of the relevant exception but no statement of the general rule to provide context.
+
+□ Statements of law without a logical connection between them.
+
+How you can remedy
+
+□ Follow the building block approach to construct your rule of law
+
+□ Identify the general rule that provides the context for the exception.
+
+□ Explain the elements in your rule.
+
+□ Define the legal terms.
+
+□ Include any relevant federal/state distinctions or common law/statutory law distinctions.
+
+Look for examples of the following in the “application” section:
+
+335
+
+□ Solid factual discussion that appears element-based but without any explanation or identification of the element.
+
+□ Analysis of the legally-relevant facts but without reference to the supporting legal framework.
+
+□ Statement of facts but no statement connecting up why that rule is legally significant in this particular case.
+
+How you can remedy
+
+□ Build your legal context by working backwards from what you’ve stated in the facts to determine the scope of the rule necessary to lay a foundation for what you’ve discussed.
+
+□ With respect to a fact, ask yourself why you found this fact sufficiently relevant to be discussed. This forces you to identify the legal basis for relevancy.
+
+The Specifics:
+
+The challenge for most students is deciding what to include and not writing too much or too little. The other problem is writing the rule in its logical order. We’ll break this down into two steps and begin with writing enough of the rule.
+
+(1) Writing enough of the rule
+
+Happily, I can provide a “general rule” when it comes to writing the rule:
+
+336
+
+Write enough “rule” to provide the context in which you will analyze the facts. The rule and the facts are inextricably linked. Your analysis of the facts will not make sense unless you have first identified the rule that determines the relevance of those facts.
+
+The question we now need to consider is “how do you know when your statement of the rule is inadequate, incomplete, and insufficient to do the job?” It’s likely to appear as follows:
+
+You write “snippets” of law, relying on buzz-words and catch phrases.
+
+You list “elements” without explanation or definition.
+
+You discuss the “exception” and omit the context of the “general rule.”
+
+Look for examples of the following in the rule section of your essay:
+
+Buzz-words and legal phrases instead of complete fully developed statements of the law.
+
+“Elements” without explanation.
+
+The following is an example of where elements or factors are identified but not otherwise defined. Unless you were to develop each requirement further in the course of a factual analysis, this is far too cryptic to serve as the complete recitation of the rule.
+
+There are four elements required to form an agency relationship: a. manifestation of assent;
+
+337
+
+b. subject to control of the principal; c. fiduciary relationship and d. act on his behalf.
+Suppose you were given a set of facts and asked to determine whether an agency relationship existed and the only information you had to work with was this one sentence. Would you be able to make a determination? As you can see, there are too many gaps in information to allow you to evaluate any facts. After all, you wouldn’t know any of the following:
+
+Who has to “manifest assent”?
+
+Assent to what?
+
+What’s a principal?
+
+What’s a fiduciary?
+
+What does it mean to “act on behalf of another”?
+
+The remedy is simple: include more substance by working from the foundation you’ve created. If you’ve listed elements, then define them; if you’ve identified factors, then explain them. You can include this in your essay either in your “rule paragraph” or by weaving the rule into your factual analysis.
+
+The “exception” without the “general rule”
+
+If you’ve identified an exception to a general rule as the critical factor in your problem, then you must also include the general rule. A statement of the general rule provides much-needed context for understanding the exception.
+
+338
+
+A good example of working from the exception to the general rule are questions that test the Fourth Amendment’s prohibition against unreasonable searches and seizures and its corollary, the exclusionary rule. Such examples are not limited to the Fourth Amendment, but it provides a good example. Given the nature of the law, the list is practically endless: when is there not an exception to a rule? All this means is that when your task is to analyze whether an exception applies, you want to include a statement of the general rule before you turn your attention to the specific exception brought into controversy by the facts of your problem.
+
+Let’s consider the following example: a search incident to a valid arrest.
+
+Example: Fourth Amendment and warrantless searches
+
+Don’t just write . . .
+
+Pursuant to a lawful arrest, the police officer can make a warrantless search of an automobile if there is reason to believe it contains contraband.
+
+without including the general rule . . .
+
+Under the Fourth Amendment, a person has the right to be free from unreasonable searches and seizures by the government. A search will normally be considered unreasonable if it is not conducted pursuant to a validly executed warrant based upon probable cause unless one of the exceptions applies.
+
+339
+
+(2) Writing the rule in its logical order
+
+There is a structure to follow when writing a rule of law. You should strive to present your statement of the law in its logical order. This demonstrates your understanding of the material and makes it easy for the grader to follow. In the process, it helps insure that you write enough of the law by covering related concepts.
+
+Thoughtful legal analysis requires a logical development and presentation of the applicable law. The bottom line is that you must know how a rule breaks down to write it in an organized manner. You should understand the flow of the rule and how the pieces connect.
+
+Writing the rule according to its logical order is really just another way of saying that your writing should be organized. Using these principles will keep you organized without thinking about it—follow them and your discussion will be naturally organized.
+
+Consider the following hierarchy of concepts when you write the rule:
+
+Move from the general to the specific.
+
+Your analysis should begin with a statement of the general rule and move to the exception. Moving from the general to the specific is simply the natural order of things.
+
+340
+
+Define each legal term of art.
+
+When your statement of the rule contains a legal term of art, your next sentence should be a definition of that term. This is one of the easiest ways to go about building a complete statement of the rule in a logical and methodical manner. The sentences flow almost effortlessly (and seamlessly) because one statement leads naturally to the next.
+
+4. WHEN YOU HAVE TROUBLEWRITING THE “APPLICATION”
+
+This is by far the simplest problem to correct because the essay has the rules in place but fails to analyze the facts. Clearly, the writer implicitly acknowledged the relevance of the facts or he or she would not have recognized the need to discuss that rule.
+
+The Overview:
+
+How you can tell
+
+Look for examples of the following in the “application” section:
+
+□ Mere repetition of the facts from the hypothetical.
+
+□ Conclusory statements.
+
+□ Reliance on such language as “obviously,” “clearly,” and “evidently.”
+
+□ Avoiding the question to be analyzed by using “if” and “should.” For example, leaving the discussion at stating “if the breach was
+
+341
+
+material” instead of evaluating whether or not it was. Or turning the question over to the judge—“should the court find that the words constituted a dying declaration”—and then not evaluating whether they were and what consequences would flow from that finding.
+□ There is no mention of any of the individual facts—no use of dates, times, ages, amounts, relationships, locations—nothing that ties the analysis to the specific facts of the problem.
+
+□ Absence of the word “because”—or words that serve a similar function like “since,” “when,” and “as.”
+
+How you can remedy
+
+□ Match up each element/sub-element in the rule to a fact.
+
+□ Use the word “because” to make the connection between rule and fact.
+
+□ Make sure that every conclusion you reach is supported by an explanation of the “why” behind it.
+
+□ Make sure you “use” every fact of consequence in your analysis.
+
+The key in writing the “application” and not simply a recitation of the facts from the hypothetical is to understand that application is analysis. It is explaining the legal significance of each fact. Generally, this is a golden opportunity to rack up exam points because once you’ve identified the rule,
+
+342
+
+all you have to do is discuss the facts with respect to each of the identified requirements. Some refer to this as a “cut and paste” between the law and the facts or a “matching up” of rule with fact. Either way, the end result is the same: a solid legal analysis.
+Let’s see how this works:
+
+We’ll begin with the most common form of application error—recitation in place of analysis. Recitation occurs when you’ve simply rewritten the facts in the hypothetical. We can change all that with a word.
+
+a. The Importance of “Because”
+
+Use the word “because” to draw the connection between rule and fact. “Because” is the single most important word to use when writing your application. Using the word “because” forces you to make the connection between rule and fact. You’ll find that you can also make use of the words “as,” “since,” and “when”—they serve the same function as “because.”
+
+b. Conclusory Statements
+
+Even if you struggled with “conclusory” statements throughout law school, there is no reason you can’t cure the problem for the bar exam—just study the following examples.
+
+What not to write:
+
+The specifications in this agreement are express conditions.
+
+343
+
+What you should write:
+
+The specifications in this agreement can be considered express conditions because the contract language uses that of express condition when it states the hardwood floor “shall be” of a particular type.
+
+What not to write:
+
+In addition, Newman will say that the oral agreement contradicts the writing of the agreement which is not allowed under the parol evidence rule.
+
+What you should write:
+
+In addition, the oral agreement contradicts the written the agreement because the oral conversation between Ben and Newman allowed Ben to wallpaper the kitchen any time while the written agreement specifies that wallpapering must be done after the cabinetry is completed.
+
+What not to write:
+
+In this case, Pete the police officer noticed that Dan fit the description of a robbery suspect and arrested him.
+
+What you should write:
+
+In this case, Pete, the police officer, realized that Dan fit the description of a robbery suspect, providing probable cause for arrest, because Dan had bright red hair, was wearing a green and yellow sweater with purple patches and pointy-toed alligator cowboy boots, fitting the description provided by the eyewitness to the robbery.
+
+344
+
+c. Avoiding Analysis with “If”
+
+This is the case where you allude to what needs to be discussed—if the court finds bad faith—and then fail to evaluate the conduct. Either you don’t know what it means to evaluate the facts or consider the job done by simply referencing them. In either case, it’s a point-buster.
+
+This is an easy fix: show all work. Writing an exam answer is like solving a math problem: if you leave out the evaluation, it’s like saying that to solve for X, you need to first multiply and then divide—and then not doing it!
+
+B.  HOW FORENSIC IRAC WORKSWITH MBE QUESTIONS
+
+Our use of the forensic IRAC method operates somewhat differently when we apply it to objective, multiple-choice questions. That’s because in some way, short answer questions have already narrowed the field of possible errors. There are two basic skills at work in answering multiple-choice questions: your knowledge of the law and your ability to analyze the questions, which in turn relies heavily on your reading comprehension skills. An incorrect answer choice, therefore, is the result of a flaw in one of these areas.
+
+The key to working with multiple-choice questions, therefore, is learning to identify the flaw in the reasoning behind an incorrect answer choice. Just like we needed to figure out what you were thinking when you wrote an essay, we need to get inside your
+
+345
+
+head and figure out what you were thinking when you selected a multiple-choice answer.
+1. APPLYING THE TECHNIQUE
+
+When practicing multiple-choice questions, if you answer a question incorrectly, you must go back to that question and reread it to reflect on what you were thinking the first time you read the question. Specifically, your task is to recreate your thought process, retrace your steps, and compare your reasoning in the two instances to find the flaw in your analysis. This may be the only way to figure out how you made a mistake. And until you know why you select wrong answer choices, you can’t make the necessary corrections. That’s why it’s essential—absolutely essential—that you answer only one question at a time when working with multiple-choice questions. If you try to answer more than one at a time, you won’t remember what you were thinking when you selected an answer choice with respect to a particular question. Self-awareness is essential to the analytical process—you need to know how you reasoned through a question.
+
+How to proceed:
+
+a. Answer a question as we discussed in the MBE chapter:
+
+Read actively from the stem (or call-of-the-question) and then to the fact pattern.
+
+Find the issue.
+
+346
+
+Move from the issue to articulation of your own answer.
+
+Translate your “answer” to fit an available “answer choice.”
+
+b. Check your answer.
+
+2. IF YOU ANSWERED THEQUESTION CORRECTLY
+
+Read the explanation for the correct answer choice if explanations are available. Even if you answered correctly, you want to make sure that you did so for the right reason. If you got the “right” answer for the “wrong” reason, proceed as if you answered incorrectly.
+
+3. IF YOU ANSWERED THEQUESTION INCORRECTLY
+
+If you made an incorrect answer choice, you must go back to the question and read it again, beginning with the stem. As you read, pay close attention to what you are thinking and compare what you are thinking now to the first time you read the question.
+
+What’s most important in this exercise is the real-time feedback. If I were sitting with you while you were reading, I would stop you every 30 seconds or so and ask you to tell me what you were thinking. This forces you to put into words exactly what’s going on in your head at the moment, something you’re probably not doing—at least not consciously—and you must do it. That’s because the only way to
+
+347
+
+identify if you’ve gone down a wrong path is while your thoughts are still fresh in your mind.
+You can learn to see why a thought is the wrong one to be having at the time by answering the questions I’ve posed for you below. Even though I’m not with you to lead you through the steps, you can do it for yourself by asking the questions I would ask:
+
+(1) Look at the question stem: was my first answer choice one that answered the precise question that was asked?
+
+(2) As I re-read the fact pattern, am I noticing facts that I overlooked the first time?
+
+(3) Did I confuse the parties and that’s why I evaluated the problem incorrectly?
+
+(4) Did I overlook such legally significant words as “reasonable,” “unexpectedly,” or “accurately”?
+
+(5) Do I find my mind wandering as I read?
+
+(6) Am I rereading the same sentence because I have trouble remembering what I’ve just read?
+
+(7) Am I reading into the problem words and facts that are not there?
+
+The problem addressed in question #7 is difficult to detect, but it is a primary reason for incorrect answer choices. You therefore must find out if this is something you do. This is how:
+
+348
+
+Start by examining your incorrect answer choice. Re-read it and ask yourself what led you to choose that answer.
+
+This requires that you go back to the fact pattern and see if you can find which words or facts led you to select that particular answer choice.
+
+Identify the basis for your answer. There had to be a reason—some basis you relied on for selecting that particular answer. We know it was the wrong reason, but we still need to know what your reasoning was at the time in order to step in and correct it at that point.
+
+Determine whether you “read into the facts” or added your own. This alters the nature of the problem. You must never “assume” facts. The bar examiners have carefully constructed the question to contain all the facts you need to answer the question. You must rely solely on these facts and no others. You may and should draw reasonable inferences but you cannot fabricate your own facts or create “what if” scenarios.
+
+Don’t let yourself go off on tangents based on possible theories you see raised in the facts. Sometimes when you read a fact pattern, you’ll see the potential for a number of possible causes of action. Let the stem for the question guide your analysis.
+
+349
+
+Sometimes you don’t “add” facts but see implications that have no basis in the facts. This leads you astray in your analysis as well. Let the facts dictate your direction.
+
+(8) Am I disregarding an important exception and jumping immediately to the general rule?
+
+(9) Am I not connecting with the significance of the facts and that’s why I can’t identify the legal problem?
+
+(10) Does this question require application of statutory law and not the common law? Did I disregard this before?
+
+(11) Am I applying the minority view instead of the majority rule?
+
+(12) Am I misapplying the rule to the facts?
+
+(13) Am I “reacting” to answer choices instead of “acting” in response with an analysis of the issue presented?
+
+(14) Did I get emotionally involved with the problem and substitute my instincts for what I know is legally correct?
+
+(15) Did I become “practical” and replace the black letter law for what I thought would occur in actual practice?
+
+4. FIGURE OUT WHAT YOURANSWER MEANS
+
+If you answered “yes” to questions 1 through 7, then you most likely have a reading problem.
+
+350
+
+You therefore choose the incorrect answer choices because you misread a fact either in the fact pattern or the answer choice. This is usually the result of sloppy reading because you are intent on reading quickly rather than carefully. A hasty reader is likely to overlook the specific use of vocabulary and the significance of modifiers in the answer choices. These types of errors and omissions go directly to your reading of the problem, not necessarily to your knowledge of the substantive law or to your analysis of the legal question. In fact, your difficulties with reading may prevent you from getting to the actual problem in controversy.
+
+If you’ve been able to identify your problem as one of reading, now you have a direction in which to work. You can and must learn to read questions “actively.” Because of time constraints on an exam, you may have time for only one reading of the fact pattern. However, you can’t sacrifice a careful reading for a quick one. You must read carefully to spot signal words and legally significant facts. Slow down and watch what happens. Train yourself to look for the following as you read and since you may write in your test booklet, do not hesitate to circle the relevant language and make your own notes:
+
+Relationships between parties that signal the area of law and legal duties: landlord/tenant, employer/employee, principal/agent, buyer/ seller.
+
+Amounts of money, dates, quantities, and ages.
+
+351
+
+Words such as “oral” and “written,” “reasonable” and “unreasonable,” among others; and
+
+Words that indicate the actor’s state of mind such as “intended,” “decided,” “mistakenly thought,” and “deliberately,” among others.
+
+If you answered “yes” to questions 8 through 15, then you may have a problem with either application or the rule.
+
+It’s often difficult to distinguish between the two problems because they are closely related in the dynamic of answering multiple-choice questions. Problems with analysis are process-oriented while problems with the rule are substance-based. But they can and do overlap as evidenced in these questions.
+
+Analysis Problems
+
+Conquering a problem with analytical skills not only involves close, accurate reading of the text, but it also requires exactness in following the structure of legal analysis in the context of multiple-choice questions. This requires that as you re-read the question, you focus on answering the following:
+
+Did you properly analyze the question?
+
+1. Did you begin by reading the call-of-the-question?
+
+2. Did you identify the issue in the fact pattern?
+
+3. Did you move from finding the issue to forming your answer?
+
+352
+
+4. Did you fill the gap from “your answer” to identify which answer choice best addresses the issue?
+
+Did you properly analyze the answer choices?
+
+1. Did you identify the issue in each answer choice?
+
+2. Did you use the process of elimination by determining when an answer choice can’t be correct?
+
+(a) Was the answer choice completely correct?
+
+(b) Did the answer choice misstate or misapply a rule of law?
+
+(c) Did the answer choice mischaracterize the facts?
+
+What you should do
+
+The basic remedy for reading and application-based problems is practice—lots and lots of it. There’s no real secret: the more questions you work your way through, the more careful and conscientious a reader you become. In some ways, answering a multiple-choice question is more a science than an art but rigor in application of the method will yield favorable results.
+
+Rule Problems
+
+Let’s face it: if you don’t know the black letter law, you can’t distinguish between the answer choices. The key in analyzing the question after
+
+353
+
+you’ve identified the issue is to articulate the rule of law that addresses that issue. If you don’t know the rule, you can’t get to this step. Remember, it’s not enough to know bits and pieces of rules or simply be familiar with the terminology. Buzz-words will not help you here. The only thing that works is complete and thorough understanding of the rule—in its entirety.
+If you answered “yes” to questions 8 through 12, consider the following:
+
+If you cannot summon to mind the relevant rule as soon as you’ve articulated the issue, then you must return to your notes and review the substantive law in detail. Your problem is with knowledge of the rules and you must be comfortable with answering the following questions as soon as you read a fact pattern:
+
+What is the legal problem presented by the facts?
+
+What area of law is implicated?
+
+What is the specific rule of law that governs under these facts?
+
+On the other hand, if you answered “yes” to questions 13 through 15, then something slightly different may be happening and requires a different approach. Let’s look at each one individually.
+
+If you “react” instead of “act”:
+
+When you find yourself “reacting” to answer choices instead of “acting” in response to them with
+
+354
+
+a careful analysis of the issue presented, then some changes in procedure are required. This type of problem is basically one of control: Because you’ve lost control of your thought process in analyzing the problem, you’ve placed yourself at the mercy of the answer choices. Then they pick you, instead of the other way around. How do you act and not react to the answer choices? The answer is simple: formulate your own answer to the interrogatory before you even look at the answer choices. Practice questions this way until it becomes habit and you’ll see what a difference it makes.
+If you ignore the rule:
+
+If you find yourself substituting your instincts for what you know is legally correct, you’re headed for trouble. You must apply the rule of law to the facts without equivocation. You can’t afford to get emotionally involved with the parties and let your sympathies interfere with what you know is legally correct. It’s not your place to find a criminal defendant not guilty when in fact her actions satisfy every element of the crime. And conversely: if an act doesn’t violate the provisions of a given statute, then whatever you happen to think about the nature of the act (or actor) doesn’t matter. It’s not a crime if the jurisdiction doesn’t make it one. Your job is to follow the law and apply it to the facts mechanically.
+
+If you substitute “practice” for “theory”:
+
+If you find that you become practical on exams and replace the black letter law for what you think
+
+355
+
+would occur in the real world, then you’re going to end up with some incorrect answers. The bar exam is not the time or place to become “practical” and consider what you think would happen in actual practice. When answering an MBE question, apply the rule of law as you’ve learned it and you’ll be fine.

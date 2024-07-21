@@ -1,27 +1,6 @@
-bank-account-with-two-names.md
 
-credit-card-interest-rates.md
 
-medicaid--.md 
-medicaid-poapl.md 
 
-pour-over-.md
-pour-over-what-is-it.md
-pour-over-when-to-use.md
-pour-over-how-to-draft.md
+f202407202059.md
 
-poap--.md
-poap-def.md
 
-re--.md
-re-devise.md
-re-devise-immediate-vesting.md
-re-life-estate-poalp.md
-re-mortgage-death-acceleration.md
-re-llc-gift-transfer-tax.md
-
-savings-bond-.md
-savings-bond-beneficiary-predeceases.md
-savings-bond-medicaid.md
-savings-bond-right-election.md
-savings-bond-family-exemption.md 

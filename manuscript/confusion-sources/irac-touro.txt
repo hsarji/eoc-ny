@@ -1,0 +1,99 @@
+
+https://www.tourolaw.edu/adp/studyskills/gettingorganized.aspx
+
+# Getting Organized with IRAC Diagraming
+
+Years ago, students were shown how to diagram the parts of a sentence to learn grammar. While this may no longer be the way grammar is taught, the principle of mapping the parts of the sentence to show how they work together is very useful for showing how the parts of a legal argument are structured. It’s insufficient to tell you to organize an answer around IRAC without showing how it’s done or without an objective method of evaluating the work product.
+
+## I. How it works
+
+Diagraming an essay allows you to see IRAC in action. ==Diagraming proceeds sentence by sentence, where each one is labeled according to its role in the IRAC equation. A sentence is either issue, rule (rules can be further broken down — general statement, element, factor, definition of element/factor), fact analysis (facts can break down into argument/counter-argument, statement), or conclusion.== This works particularly well when multiple issues are involved and organizing a response in a meaningful manner is essential. Diagraming lets us see how and where issues may have been mixed together.
+
+Suppose I’m working with a student, Ben, and we’re reviewing his exam answer to a Torts mid-term. We review each sentence he’s written and identify whether that sentence is a statement of the issue, one discussing the applicable rule of law, or a sentence applying the rules to the facts of the problem. ==We label each sentence with an “I”, an “R” or an “A.” The sentence must “fit” somewhere.==
+
+## II. Applying the Technique
+
+As just described, the process works by labeling each sentence with either an “I”, an “R”, an “A”, or a “C” to identify which function it serves in the essay. Issues can be numbered to accommodate problems where multiple legal questions are raised — I^1 is followed by I^2 and so forth. This numbering scheme would extend to the rule and application where all rule-related sentences with respect to the first issue would be labeled R^1 and, similarly, all application-related sentences would be A^1. The same procedure would follow for the second issue (I^2).
+
+You may find that not every sentence you read fits one of the IRAC letters. Typically, this happens with the “A.” You’ll find you’re reading something that seems like it should be analysis, but it’s nothing more than a statement of the facts you’ve been given. I would suggest labeling this sentence ==“S” for statement==. It’s important to recognize such sentences since writing “recitation” instead of “application” is a common mistake and must be corrected. However, some “S”s may be necessary as background leading to what will be analyzed. Still, these types of sentences should be minimal and quickly progress to the analysis. Diagraming is one way to let you see whether there’s a tendency to rely on such statements. Finally, it’s likely that you’ll find sentences that merely repeat what’s already been written. Unfortunately, there’s a tendency to be repetitive, but there’s no time to be wasted on exams and no points to be gained from repeating the same thing but in different words. Consequently, ==if you find sentences that merely repeat what was already written, you might indicate such sentences with a “U” for useless==. You’ll be surprised by the number of “U”s you discover!
+
+Having said all of this, the most effective way to communicate the process is simply to show it to you. Consider the following essay answer. As you read, note the letters in parentheses at the end of each sentence but don’t be concerned about them. After you’ve read through the entire essay, we’ll examine each sentence separately and I’ll explain the notations.
+
+Example:
+
+The issue is whether Jessica committed a battery when she threw her slipper out the window and hit Nick on the head. (I^1) While Jessica’s words that she was going to kill him would not be sufficient, by themselves, to give rise to an assault, they were combined with the physical act of throwing the slippers out the window. (A^2) An assault is the intentional causing of an apprehension of a harmful or offensive contact. (R^2/G) Here, we have an indirect contact because Jessica threw a slipper which made the actual contact with Nick. (A^1). A battery is the intentional infliction of a harmful or offensive bodily contact. (R^1/G) Nick must be aware that the slippers are coming at him to feel apprehension and since we do not know if Nick saw the slipper coming at him, there is no way to know if he felt apprehension and hence no assault. (A^2/C^2). Here, it may be difficult to find knowledge to a substantial certainty because Jessica threw a fuzzy slipper and not a hard object — it was not a boot or even a shoe —< out of a 5th floor window. (A^1).
+
+On the other hand, if he saw the slipper coming at him, it could be an assault because then he would have an expectation of contact. (A^2/CA^2). The contact can be either direct or indirect where an indirect contact is one that results from a force set in motion by the defendant. (R^1/D). It is possible that throwing a high-heeled slipper to get someone to stop singing could indicate intent to make contact. (A^1). However, it is questionable whether she knew with substantial certainty she would effect a contact because of the failure to take aim and the likely distance between her room and the ground. (A^1/CA^1). The intent for battery is satisfied not only when the actor intends harmful or wrongful behavior, but if he acts with purpose or knowledge to a “substantial certainty.” (R^1/D). Here it may be hard for Jessica to believe a contact of any kind would be possible, much less substantially certain, because a slipper is soft and the distance she tossed it was quite far. (A^1).< Therefore, it is not likely she had the intent to commit a battery. (C^1).
+
+Analysis:
+
+1. The first sentence stated a question concerning battery: <br><br>The issue is whether Jessica committed a battery when she threw her slipper out the window and hit Nick on the head. (We’ll tag this sentence I^1 because it’s the first issue statement in the essay.)
+
+2. The second sentence shifted to a factual discussion of assault: <br><br>While Jessica’s words that she was going to kill him would not be sufficient, by themselves, to give rise to an assault, they were combined with the physical act of throwing the slippers out the window. (We’ll label this sentence A2 because it’s analysis of the facts, but facts related to assault and we haven’t identified an assault issue yet, only battery.)
+
+3. The next sentence stated a rule regarding assault: <br><br>An assault is the intentional causing of an apprehension of a harmful or offensive contact. (We’ll label this sentence R2 because it’s a statement of a rule, but related to the second issue. We can also consider it a general statement of the rule and refine its tag to R^2/G. As you know, a general statement of the rule is a good starting point but not always sufficient for a complete analysis so it’s important to identify the part of the rule that you find. This lets you see exactly what you’ve included and also what you may have omitted.)
+
+4. The fourth sentence was a fact application regarding the battery:<br><br>Here, we have an indirect contact because Jessica threw a slipper which made the actual contact with Nick. (We’ll tag this sentence A^1 because it’s a fact analysis regarding the physical contact which has to do with battery).
+
+5. The fifth sentence stated a rule regarding battery: <br><br>A battery is the intentional infliction of a harmful or offensive bodily contact. (We’ll mark this sentence with R1 because it relates back to the first issue, battery. Once again, we can be more specific and tag it R^1/G where the G stands for “General” because it is a statement of the general rule.)
+
+6. The next sentence discussed the facts of the assault and offered a conclusion regarding the assault: <br><br>Nick must be aware the that the slippers are coming at him to feel apprehension and since we do not know if Nick saw the slipper coming at him, there is no way to know if he felt apprehension and hence no assault. (We’ll tag this sentence with A^2/C^2 because it is a fact analysis of the assault issue and it contains a conclusion with respect to that issue.)
+
+7. The next sentence returned to battery: <br><br>Here, it may be difficult to find knowledge to a substantial certainty because Jessica threw a fuzzy slipper and not a hard object — it was not a boot or even a shoe — out of a 5th floor window. (We’ll label this A1 because it’s a fact analysis of the battery issue.)
+
+8. The eighth sentence returned to analyze the assault (which is interesting because this issue was concluded two sentences earlier): <br><br>On the other hand, if he saw the slipper coming at him, it could be an assault because then he would have an expectation of contact. (We’ll tag this A^2/CA^2 because it is a fact analysis of the assault issue and it is also the counter-argument — hence the “CA^2”.)
+
+9. The next sentence added to the rule on battery: <br><br>The contact can be either direct or indirect where an indirect contact is one that results from a force set in motion by the defendant. (We’ll label this R1 because it refers back to the rule of battery but as you can see, it adds to the rule by distinguishing between the types of contact. Once again, we can be more specific and tag it R1/D where the D stands for “Definition.” This indicates that we’ve gone beyond the general rule to include a more specific definition.)
+
+The following sentence analyzed the battery:
+It is possible that throwing a high-heeled slipper to get someone to stop singing could indicate intent to make contact. (We’ll tag this A1.)
+
+The next sentence also analyzed the battery and added a counter-argument:
+However, it is questionable whether she knew with substantial certainty she would effect a contact because of the failure to take aim and the likely distance between her room and the ground. (We’ll tag this A1/CA1 because it analyzes the battery issue and presents a counter-argument. It also analyzes the intent element of the battery rule, but thus far there has been no mention of the rule regarding the intent required to commit a battery.)
+
+The next sentence added to the rule on battery by defining intent:
+The intent for battery is satisfied not only when the actor intends harmful or wrongful behavior, but if he acts with purpose or knowledge to a “substantial certainty.” (We’ll label this R1/D because it is a statement of the rule regarding battery but it adds to it by providing a definition of the intent element.)
+
+The following sentence analyzed the battery and focused on the intent component:
+Here it may be hard for Jessica to believe a contact of any kind would be possible, much less substantially certain, because a slipper is soft and the distance she tossed it was quite far. (We’ll label this A1).
+
+The last sentence stated a conclusion with respect to battery:
+Therefore, it is not likely she had the intent to commit a battery. (We’ll tag this C1).
+
+III.         Using the Technique
+
+Perhaps the greatest value of diagraming is that it lets you “see” disorganization. By tagging the lines in an essay, it becomes possible to identify when sentences jump between issues or where facts are analyzed before the relevant rule has been discussed (i.e., where there’s no R1 before an A1). Disorganization becomes visible when sentences are labeled objectively.
+
+For example, we can now see the disorganization in this essay answer. If we strip away the text and just look at the tags at the end of the sentences, we find the following:
+
+Paragraph 1:(I1) (A2) (R2/G) (A1) (R1/G) (A2/C2) (A1)
+
+Paragraph 2: (A2/CA2) (R1/D) (A1) (A1/CA1) (R1/D) (A1) (C1)
+
+To find meaning in the tags, we look to the arrangement of the letters and the sequencing of the numbers:
+
+First, the letter arrangement should follow IRAC and proceed from Issue to Rule to Application to Conclusion, without doubling back along the way (of course it’s often appropriate to weave back and forth between “R” and “A” but it must be with respect to the same issue and rule).
+Second, the sequence for numbers within an IRAC should be consistent. Although it may not matter which issue you choose to discuss first, what matters is that you complete discussion of one issue before moving to another. In other words, all the 1s should be together, all the 2s, and so forth.
+In this example, it’s easy to see the disorganization in the first paragraph because the second issue is analyzed before there’s a statement of the issue or even a statement of the rule of law regarding that issue. There should never be a specific fact application before a general statement of the relevant rule. Further, you can see that a conclusion was reached in the first paragraph with respect to the second issue but then this issue was revived and revisited in the second paragraph for a counter-argument.
+
+To be of true value, you must be able to diagram your own essays. It’s easy. Here’s what to do:
+
+Write out your essay answer.
+Put the answer aside for a couple of hours so you can look at it with fresh eyes.
+Now read it, sentence by sentence. Label each sentence according to its IRAC function.
+When labeling, be as specific as possible, breaking down the rule of law and the analysis. You can create your own identification letters — just be consistent and use letters that have meaning for you.
+Isolate the tags at the end of each sentence.
+Find the meaning in the tags by examining the arrangement of the letters and the sequencing of the numbers. The key to organization is finding that the tags are consistent in both sequence and number.
+In addition to checking for organization, note whether you have sentences that fill no particular role (statements instead of analysis) or merely repeat something you’ve already written. These sentences simply waste valuable exam time.
+Limits to diagraming:
+
+Undoubtedly, IRAC diagraming has useful applications for identifying problems with general structure and for providing a roadmap for reorganization. However, IRAC diagraming is only a map of what’s written. It cannot explain why something isn’t quite right, nor is it effective where the problems presented are ones regarding the more sophisticated levels of rule construction: i.e., a recognition of the hierarchical structure of the law and the various turns and twists of how a specific rule unfolds based on its particular requirements. When difficulty presents in this area, it’s necessary to turn to a further exploration of your understanding of the law itself. In this case, the principles of forensic IRAC, as applied to the rule section, should be the next step.
+
+Skip Navigation Links
+Academic Programs
+
+Study Skills
+
+Exam Preparation
+
+© 2006 Touro Law Center
